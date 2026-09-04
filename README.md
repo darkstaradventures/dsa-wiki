@@ -1,17 +1,16 @@
-# Quartz v5
+# Dark Star Adventurecast Wiki
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Public, spoiler-safe campaign wiki for [Dark Star Adventurecast](https://darkstaradventures.com), built with [Quartz](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Content in `content/` only ever reflects what's aired publicly. It's generated from the private GM vault, filtered and rewritten to strip anything not yet revealed on the show — see `GM Notes/Public Wiki Plan.md` in the vault for the full process.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Local development
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```bash
+npm ci
+npx quartz build --serve
+```
 
-## Sponsors
+## Deploy
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Pushing to the `v5` branch triggers `.github/workflows/deploy.yml`, which builds and publishes to GitHub Pages.
