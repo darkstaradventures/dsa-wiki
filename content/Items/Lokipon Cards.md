@@ -11,7 +11,7 @@ The game has become a running bit of levity for the crew, who collect the cards 
 
 ## Rules
 
-The rules have been improvised collaboratively at the table as the game recurs. What's been established so far: the goal is to avoid catching any Lokipon — the creatures want an owner and are constantly trying to attach themselves to someone, but a Lokipon distracts from real life and drains funds. The win condition is to make an opponent catch a Lokipon instead; whoever ends up stuck with one loses. Trap cards can force this on an opponent. Known Lokipon include "Danger Pa," and known card types include Terria, a kind of mana.
+The rules have been improvised collaboratively at the table as the game recurs. What's been established so far: the goal is to avoid catching any Lokipon. The creatures want an owner and are constantly trying to attach themselves to someone, but a Lokipon distracts from real life and drains funds. The win condition is to make an opponent catch a Lokipon instead; whoever ends up stuck with one loses. Trap cards can force this on an opponent. Known Lokipon include "Danger Pa," and known card types include Terria, a kind of mana.
 
 ---
 *Appears in: Ep 3, 5, 6*

@@ -5,7 +5,7 @@ aliases: [The Spigot, Delta-7, Spigot]
 revealed_through: Episode 27
 ---
 
-The Spigot, also known as Delta-7, is the port city on [[Sibylen]] — a sprawling town that grew organically into a twisting maze of sun-baked streets and concrete modular apartments, centered on a refueling tower stretching from the surface to low orbit. As the poet Cassius put it: "The Spigot is the rusty throat of the innerbelt, ever swallowing the dreams of silver men." It's known for insatiable blue-collar labor, with helium-3 mining fields nearby worked by conveyor bots.
+The Spigot, also known as Delta-7, is the port city on [[Sibylen]], a sprawling town that grew organically into a twisting maze of sun-baked streets and concrete modular apartments, centered on a refueling tower stretching from the surface to low orbit. As the poet Cassius put it: "The Spigot is the rusty throat of the innerbelt, ever swallowing the dreams of silver men." It's known for insatiable blue-collar labor, with helium-3 mining fields nearby worked by conveyor bots.
 
 Sub-locations include [[The Vent]], a local bar; [[Iso's Shop]] (destroyed), Dr. Iso's former clinic and black market shop; the [[Helium Docks]], a loading zone between town and the mines; and the spaceport admin office.
 

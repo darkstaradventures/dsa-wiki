@@ -5,7 +5,7 @@ aliases: [The Goat, Goat]
 revealed_through: Episode 23
 ---
 
-The Scapegoat is the crew's ship, a standard Free Merchant-class frigate with a couple of low-power weapons and a lot of cargo space — nothing special on paper. The crew named it in Episode 2, choosing "Scapegoat" over other candidates (Wayfarer, Serendipity, Quicksilver, The Deathstick, Argo) because of the connotations it carries for both [[Robert Ross]] and [[Thorne]]'s backstories — both feel like scapegoats in their own way.
+The Scapegoat is the crew's ship, a standard Free Merchant-class frigate with a couple of low-power weapons and a lot of cargo space, nothing special on paper. The crew named it in Episode 2, choosing "Scapegoat" over other candidates (Wayfarer, Serendipity, Quicksilver, The Deathstick, Argo) because of the connotations it carries for both [[Robert Ross]] and [[Thorne]]'s backstories: both feel like scapegoats in their own way.
 
 ## History
 
@@ -13,13 +13,13 @@ Before falling into obscurity, the Scapegoat ran a regular supply route between 
 
 ## Description
 
-Roughly 100 yards long and 30-40 yards wide at its broadest, the Scapegoat is longer and narrower than ships like the Millennium Falcon or Serenity — built more like a spine with cargo bays hanging off it. It reads as a working truck rather than a starfighter: nobody in a dockyard looks at it twice. Its layout runs from the bridge at the bow, back along a central corridor of crew quarters and common spaces, to two cargo bays at the stern — the first housing [[The Aurora]] and Reginald "Froggy" Vance's living space, the second largely empty and able to hold a small fighter.
+Roughly 100 yards long and 30-40 yards wide at its broadest, the Scapegoat is longer and narrower than ships like the Millennium Falcon or Serenity, built more like a spine with cargo bays hanging off it. It looks like a working truck, plain enough that nobody in a dockyard looks at it twice. Its layout runs from the bridge at the bow, back along a central corridor of crew quarters and common spaces, to two cargo bays at the stern: the first houses [[The Aurora]] and Reginald "Froggy" Vance's living space, and the second is largely empty and able to hold a small fighter.
 
 It carries a multifocal laser and a sandthrower for weapons, 120 tons of pressurized cargo space, a hidden smuggler's hold, and a burst ECM generator that can negate one successful hit against it.
 
 ## Current Status
 
-As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it, its spike drive guidance is fried, and its ownership module needs a black-market replacement. Its security module was overwritten with Omnitek admin code by [[Viktor Strake]], and [[Dr. Elara Voss]]'s VI reprogramming left its physical controls broken, requiring an autonomous system to manage them — a role now filled by [[Buddy AI]], a copy [[Felix Champlin]] made of a hacked AI's source code. Voss herself was taken from the ship in Episode 17; she had encoded a secret heading toward [[Prometheon Technologies]] into one of Strake's communications before her capture.
+As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it and its spike drive guidance is fried, and its ownership module needs a black-market replacement. Its security module was overwritten with Omnitek admin code by [[Viktor Strake]], and [[Dr. Elara Voss]]'s VI reprogramming left its physical controls broken, requiring an autonomous system to manage them, a role now filled by [[Buddy AI]], a copy [[Felix Champlin]] made of a hacked AI's source code. Voss herself was taken from the ship in Episode 17; she had encoded a secret heading toward [[Prometheon Technologies]] into one of Strake's communications before her capture.
 
 ## Crew
 

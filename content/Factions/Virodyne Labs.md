@@ -5,9 +5,9 @@ aliases: [Virodyne, Virodyn Industries]
 revealed_through: Episode 17
 ---
 
-<!-- REVIEW: source file cites no explicit episode numbers for Virodyne itself; dating inferred from the Sibylen/Rynn Kade reveal (Ep 17) which is the latest on-air-confirmed thread tied to Virodyne in the source material. Confirm before publishing. -->
+<!-- REVIEW: source file cites no explicit episode numbers for Virodyne itself; dating inferred from the Sibylen/Rynn Kade reveal (Ep 17) which is the latest on-air-confirmed thread tied to Virodyne in the source material. Confirm before publishing. Also specifically verify the "secretly controls Kinetika Dynamics/Prometheon/Omnitek" ownership-web claim was actually stated on-air by Ep 29, same category of issue as the Victor Saren "digital CEO" leak caught 2026-09-04. -->
 
-Virodyne Labs is the sector's dominant mega-corporation — a genetics, cloning, and disease-control company whose public face is respectable corporate governance. Behind the scenes, it secretly controls a web of subsidiaries, including [[Kinetika Dynamics]], [[Prometheon Technologies]] (which in turn controls [[Nexus Trading]]), and [[Omnitek Holdings]]. Virodyne's uniform is black with white trim.
+Virodyne Labs is the sector's dominant mega-corporation, a genetics and cloning company with a hand in disease control, whose public face is respectable corporate governance. Behind the scenes, it secretly controls a web of subsidiaries, including [[Kinetika Dynamics]], [[Prometheon Technologies]] (which in turn controls [[Nexus Trading]]), and [[Omnitek Holdings]]. Virodyne's uniform is black with white trim.
 
 Virodyne experiments on human populations, runs prisoner conversion programs, manufactures weapons through its subsidiaries, and pursues alien technology by any means available.
 
@@ -24,7 +24,7 @@ Virodyne's presence spans [[_Polyphn|Polyphn]] (through Omnitek), a secret deep-
 
 ## Relationships
 
-Virodyne controls Kinetika Dynamics, Prometheon Technologies, and Omnitek Holdings, along with their own subsidiaries. It counts Dr. Elara Voss and the crew of [[The Scapegoat]] among its enemies. Its reach extends to the [[Void Cultists]] as well — a connection uncovered through Rynn Kade at Nexus Trading during the Sibylen auction in Episode 17.
+Virodyne controls Kinetika Dynamics, Prometheon Technologies, and Omnitek Holdings, along with their own subsidiaries. It counts Dr. Elara Voss and the crew of [[The Scapegoat]] among its enemies. Its reach extends to the [[Void Cultists]] as well, a connection uncovered through Rynn Kade at Nexus Trading during the Sibylen auction in Episode 17.
 
 ---
 *Appears in: Ep 17*

@@ -5,13 +5,13 @@ aliases: [Cult of the Void, The Cult, Void Cult]
 revealed_through: Episode 23
 ---
 
-The Void Cultists are a religious cult seeking "ascension" through rituals involving void energy. They use void ansibles — strange devices that tear rifts in spacetime — to expose people to void energy, creating Unhallowed: mindless, husk-like creatures the cult can direct. Somehow, the cult can also read the ancient "dots and swirls" alien language.
+The Void Cultists are a religious cult seeking "ascension" through rituals involving void energy. They use void ansibles (strange devices that tear rifts in spacetime) to expose people to void energy, creating Unhallowed: mindless, husk-like creatures the cult can direct. Somehow, the cult can also read the ancient "dots and swirls" alien language.
 
 The cult is organized hierarchically, with titles including Brother, Sister, Hierophant, Adept, Tollbearer, Archivist, and Mother. Members wear gray-and-black mottled robes; many are bald with face and neck tattoos, and carry shotguns, laser pistols, or chainsaw-blade swords.
 
 ## Unhallowed and Untethered
 
-When the cult exposes someone to void energy, one of two things happens. **Unhallowed** are people the void energy hits without anything "connecting" — they become mindless husks the cult directs for combat, labor, or logistics; whether any consciousness remains inside is unconfirmed. **Untethered** are people the void reaches and something in them connects; they survive with some kind of relationship to the void and are seen by the cult as candidates for what they call the Great Ascension, their ultimate goal of transcending galactic life. An untethered person can command the unhallowed directly, but cannot command someone out of being unhallowed — whether that state is reversible at all is unknown.
+When the cult exposes someone to void energy, one of two things happens. **Unhallowed** are people the void energy hits without anything "connecting." They become mindless husks the cult directs for combat, labor, or logistics; whether any consciousness remains inside is unconfirmed. **Untethered** are people the void reaches and something in them connects; they survive with some kind of relationship to the void and are seen by the cult as candidates for what they call the Great Ascension, their ultimate goal of transcending galactic life. An untethered person can command the unhallowed directly, but cannot command someone out of being unhallowed. Whether that state is reversible at all is unknown.
 
 An untethered person outside the cult is either someone the cult wants to recruit, or a threat to deal with. [[Haleyy]] has had multiple void contacts and is confirmed untethered by the cult's own definition.
 
@@ -31,7 +31,7 @@ The cult took over the Scrapjacks truck stop (Ep 10-11) and attacked the auction
 
 ## Technology
 
-The cult's void ansible (or rift device) is a five-foot antenna with forked prongs that opens a growing rift, corrupting minds and bodies within roughly a five-meter radius; destroying the device stops the mental control but not the physical corruption already inflicted. The material doesn't feel like metal — it "gives," as if organic. The cultists also carry two-tined forks, crude replicas of genuine alien technology, and can read the alien "dots and swirls" script by means still unexplained.
+The cult's void ansible (or rift device) is a five-foot antenna with forked prongs that opens a growing rift, corrupting minds and bodies within roughly a five-meter radius; destroying the device stops the mental control but not the physical corruption already inflicted. The material doesn't feel like metal; it "gives," as if organic. The cultists also carry two-tined forks, crude replicas of genuine alien technology, and can read the alien "dots and swirls" script by means still unexplained.
 
 ## Relationships
 

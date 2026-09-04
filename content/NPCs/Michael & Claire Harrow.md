@@ -15,7 +15,7 @@ Claire Harrow, his wife, was found deceased in the bed of the same hotel room, h
 
 Their child, Liam Harrow, is unaccounted for. His room, found at [[17 Millbrook Lane]], was decorated with children's toys and clown and dolphin motifs, and contained two decks of [[Lokipon Cards]]. His fate remains unknown.
 
-Among the family's belongings, the crew recovered a pre-collapse luxury hover car — the [[The Aurora|Aurora LX-90]] — found in [[Millbrook Storage]], a compact energy-cell handgun with an AI aiming system, the [[Harrow Family Cookbook]], and a set of seventeen octagonal coppery-bronze coins bearing the insignia of the [[Guardians of the Great Work]].
+Among the family's belongings, the crew recovered a pre-collapse luxury hover car, the [[The Aurora|Aurora LX-90]], found in [[Millbrook Storage]], a compact energy-cell handgun with an AI aiming system, the [[Harrow Family Cookbook]], and a set of seventeen octagonal coppery-bronze coins bearing the insignia of the [[Guardians of the Great Work]].
 
 ---
 *Appears in: Ep 5, Ep 6*

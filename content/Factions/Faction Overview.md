@@ -5,7 +5,7 @@ aliases: [Faction Map, Faction Index]
 revealed_through: Episode 21
 ---
 
-<!-- REVIEW: source hub page had no per-item episode citations; corporate ownership lines below are dated to when they were established elsewhere (e.g. Ep 8 for Virodyne's hidden subsidiaries) rather than to a citation in this file itself. Confirm before publishing. -->
+<!-- REVIEW: source hub page had no per-item episode citations; corporate ownership lines below are dated to when they were established elsewhere (e.g. Ep 8 for Virodyne's hidden subsidiaries) rather than to a citation in this file itself. Confirm before publishing. Also specifically verify the "Virodyne secretly controls Kinetika/Prometheon/Omnitek" ownership-web claim was actually stated on-air by Ep 29 and isn't sector-lore-bible background the crew/audience hasn't been told yet, same category of issue as the Victor Saren "digital CEO" leak caught 2026-09-04. -->
 
 The Viridian Expanse is dominated by a handful of interlocking mega-corporations, alongside independent operators, military powers, gangs, and cults that the crew of [[The Scapegoat]] has encountered in the course of their travels.
 
@@ -15,27 +15,27 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 
 ## Independent Corporations
 
-- [[Laicar Research]] — xenoarchaeology, based on [[_Sibylen|Sibylen]]
-- Blackout Press — underground journalism, sector-wide
-- [[Auctioneers Guild]] — neutral asset auctions, based on Sibylen
+- [[Laicar Research]]: xenoarchaeology, based on [[_Sibylen|Sibylen]]
+- Blackout Press: underground journalism, sector-wide
+- [[Auctioneers Guild]]: neutral asset auctions, based on Sibylen
 
 ## Military / Political
 
-- [[Guardians of the Great Work]] — military dictatorship controlling [[_Blackharbor|Blackharbor]] and the ruins of [[_Wafisa|Wafisa]]
-- [[The Saltborn]] — the rebellion opposing them in Blackharbor
+- [[Guardians of the Great Work]]: military dictatorship controlling [[_Blackharbor|Blackharbor]] and the ruins of [[_Wafisa|Wafisa]]
+- [[The Saltborn]]: the rebellion opposing them in Blackharbor
 
 ## Gangs
 
-- [[Drift Rats]] — roughly 28 members, [[_Camiri 4|Camiri 4]]
-- [[Neon Fangs]] — roughly 85 members, Camiri 4
+- [[Drift Rats]]: roughly 28 members, [[_Camiri 4|Camiri 4]]
+- [[Neon Fangs]]: roughly 85 members, Camiri 4
 
 ## Cults
 
-- [[Void Cultists]] — seek "void ascension," encountered at Scrapjacks and Sibylen
+- [[Void Cultists]]: seek "void ascension," encountered at Scrapjacks and Sibylen
 
 ## The Crew
 
-- [[Scapegoat Solutions LLC]] — the legal business entity founded by [[Thorne]] to give the crew standing in a corporation-dominated sector
+- [[Scapegoat Solutions LLC]]: the legal business entity founded by [[Thorne]] to give the crew standing in a corporation-dominated sector
 
 ## Known Relationships
 

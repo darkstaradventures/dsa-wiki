@@ -31,7 +31,7 @@ Recovered from defeated [[Void Cultists]]: roughly 1,750 credits combined, two v
 Recovered from cultist ship wreckage and the exosite itself: several medical Lifts, a laser rifle, two armored vacc suits, an advanced medical bay with an uninstalled cyberware stockpile, a drone control link module, and several ghost-talk transceivers.
 
 ## The Spigot ("Fixing the Goat")
-Recovered from the captured Omnitek shuttle (later renamed [[The Kid]]): several thousand credits, an encrypted datapad, a spike thrower, and security armor — along with the shuttle itself. A separate raid on a helium dock warehouse turned up a motorcycle, pharmaceuticals, and additional goods.
+Recovered from the captured Omnitek shuttle (later renamed [[The Kid]]): several thousand credits, an encrypted datapad, a spike thrower, and security armor, along with the shuttle itself. A separate raid on a helium dock warehouse turned up a motorcycle, pharmaceuticals, and additional goods.
 
 ---
 *Appears in: Ep 1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 17, 18*

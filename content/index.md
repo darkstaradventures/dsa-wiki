@@ -9,14 +9,14 @@ Dark Star Adventurecast is an actual-play Stars Without Number podcast: four exp
 
 ## Browse
 
-- [[NPCs]] — everyone the crew has met
-- [[Locations]] — every station, ship, and back alley they've set foot on
-- [[Factions]] — the corps, gangs, and cults pulling strings
-- [[PCs]] — the crew of the Scapegoat
-- [[Ships]] — the Scapegoat and anything else that flies
-- [[Items]] — the gear and loot worth remembering
-- [[Episode Guide]] — what happened, episode by episode
-- [[Timeline|Season 1 So Far]] — the story so far, in order
+- [[NPCs]]: everyone the crew has met
+- [[Locations]]: every station, ship, and back alley they've set foot on
+- [[Factions]]: the corps, gangs, and cults pulling strings
+- [[PCs]]: the crew of the Scapegoat
+- [[Ships]]: the Scapegoat and anything else that flies
+- [[Items]]: the gear and loot worth remembering
+- [[Episode Guide]]: what happened, episode by episode
+- [[Timeline|Season 1 So Far]]: the story so far, in order
 
 ## Listen
 
