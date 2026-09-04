@@ -9,7 +9,7 @@ Robert Ross is the pilot aboard [[The Scapegoat]], played by Doja. He has an afr
 
 ## True Identity
 
-Robert is clone RR7, part of an experimental squadron created by [[Virodyne Labs]] through [[Omnitek Holdings]] at a cloning facility in the Omnitek-controlled section of [[_Polyphn|Polyphn]]. Lab-grown and brought to full size within months, he was fitted with [[Kinetika Dynamics]] weaponry and armor before the clone program was scrapped following the disaster on [[_Ventos|Ventos]]. Clones like Robert have unique memories implanted at random during creation: everything in his life before his first real mission, including his backstory about being scammed out of his savings, was randomly generated content that coalesced into the personality he now has.
+Robert is clone RR7, part of an experimental squadron created by [[Virodyne Labs]] through [[Omnitek Holdings]] at a cloning facility in the Omnitek-controlled section of [[_Polyphn|Polyphn]]. Lab-grown and brought to full size within months, he was equipped and trained for combat before the clone program was scrapped following the disaster on [[_Ventos|Ventos]]. Clones like Robert have unique memories implanted at random during creation: everything in his life before his first real mission, including his backstory about being scammed out of his savings, was randomly generated content that coalesced into the personality he now has.
 
 ## Strike Force 6
 

@@ -2,11 +2,10 @@
 title: Dan Grand
 tags: [npc]
 revealed_through: Episode 12
+status: Unknown
 ---
 
-<!-- REVIEW: source frontmatter lists status as "Deceased" but the file gives no on-screen account of when/how he died within Ep 10-12; a definitive death claim was left out of the prose pending transcript verification -->
-
-Dan Grand was a security officer at [[_Scrapjacks|Scrap Jack's Refueling and Grub]]. The crew found him in the storage area, corrupted and muttering void hymns, a casualty, like the station itself, of the [[Void Cultists]] threat that had taken root there.
+Dan Grand was a security officer at [[_Scrapjacks|Scrap Jack's Refueling and Grub]], introduced to the crew as "Lieutenant Grand" before he told them to just call him Dan. When the [[Void Cultists]] seized the station, the station AI reported that Grand had been rendered unconscious by the attackers. The crew asked after him more than once while fighting their way through the station, but he was never shown or mentioned again on air after that report. His ultimate fate is unknown.
 
 ---
 *Appears in: Ep 10-12*

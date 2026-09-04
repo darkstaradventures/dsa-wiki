@@ -9,7 +9,7 @@ Blackharbor is a coastal settlement on [[Wafisa]], north of the megacity, strugg
 
 Outside Blackharbor's walls lie fields of purple flowers, grown as an industry and shipped off-world for narcotics and medication, alongside a thriving seaside fishing community. [[Haleyy]] set the fields on fire in Ep 7 as a distraction during the crew's escape.
 
-The settlement is divided into districts: the fishing quarter of [[The Docks]], the open-air [[The Great Market]], the scavenging grounds of [[The Rust Yards]], the ranches and greenhouses of [[The Outer Farms]], the hospital-shelter of [[The Iron Chapel]], the fortress of [[The Guardian Compound]], and [[The Military Airfield]], where [[The Scapegoat]] was held after being confiscated.
+The settlement is divided into districts: the fishing quarter of [[The Docks]], the open-air [[The Great Market]], the scavenging grounds of [[The Rust Yards]], the ranches and greenhouses of [[The Outer Farms]], the fortress of [[The Guardian Compound]], and [[The Military Airfield]], where [[The Scapegoat]] was held after being confiscated.
 
 Blackharbor trades alien artifacts when available, selling them to Draxus Goods via a route running from Wafisa through [[Polyphn]] to Zephryss III. The crew's ship was held at the Military Airfield until they reclaimed it, with [[Viktor Strake]] sending soldiers to trace them there (Ep 7).
 

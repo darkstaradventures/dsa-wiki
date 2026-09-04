@@ -5,7 +5,7 @@ aliases: [Michael Harrow, Claire Harrow, Harrow Family, The Harrows, Liam Harrow
 revealed_through: Episode 6
 ---
 
-<!-- REVIEW: source notes a discrepancy between Michael's stated career (financial sector vs. a construction company mentioned in SML 6) that was never resolved on-mic; left out of the prose below since it's unconfirmed which is canon. -->
+<!-- REVIEW: genuinely contradictory across aired sources. Episode 5 has Felix reading Michael's laptop and describing him as working "in some sort of financial sector" (gas-price spreadsheets). But in the Star Master Log for Episode 6, Star Master Jeff recaps a photo found in Michael's jacket in Episode 6 by saying "you learn that Michael has a construction company" -- yet Episode 6's own on-air dialogue only has the crew finding a beach photo of Michael, Claire, and Liam, with no mention of construction. So one aired career claim (financial sector) is directly supported by episode dialogue, and the other (construction) comes only from the GM's own recap on a different aired show, not from the episode itself. Left "financial sector" in the prose since it's the one actually spoken in-episode; flagging the construction claim here rather than adding it, in case future material resolves it. -->
 
 The Harrows were a family who perished during the collapse of [[_Wafisa|Wafisa]]. The crew discovered their remains and belongings while exploring [[The Glendale|the Glendale]] Hotel.
 

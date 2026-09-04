@@ -5,13 +5,11 @@ aliases: [Faction Map, Faction Index]
 revealed_through: Episode 21
 ---
 
-<!-- REVIEW: source hub page had no per-item episode citations; corporate ownership lines below are dated to when they were established elsewhere (e.g. Ep 8 for Virodyne's hidden subsidiaries) rather than to a citation in this file itself. Confirm before publishing. Also specifically verify the "Virodyne secretly controls Kinetika/Prometheon/Omnitek" ownership-web claim was actually stated on-air by Ep 29 and isn't sector-lore-bible background the crew/audience hasn't been told yet, same category of issue as the Victor Saren "digital CEO" leak caught 2026-09-04. -->
-
 The Viridian Expanse is dominated by a handful of interlocking mega-corporations, alongside independent operators, military powers, gangs, and cults that the crew of [[The Scapegoat]] has encountered in the course of their travels.
 
 ## Corporate Hierarchy
 
-[[Virodyne Labs]] sits atop a hidden corporate empire, secretly controlling [[Kinetika Dynamics]] (weapons technology), [[Prometheon Technologies]] (dark energy and antimatter research, which in turn controls [[Nexus Trading]]), and [[Omnitek Holdings]] (planetary mining and prisoner-contract labor). None of these subsidiaries publicly advertise their connection to Virodyne.
+[[Virodyne Labs]] sits atop a hidden corporate empire, secretly controlling [[Prometheon Technologies]] (dark energy and antimatter research, which in turn controls [[Nexus Trading]]) and [[Omnitek Holdings]] (planetary mining and prisoner-contract labor). Neither subsidiary publicly advertises its connection to Virodyne.
 
 ## Independent Corporations
 
@@ -22,7 +20,6 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 ## Military / Political
 
 - [[Guardians of the Great Work]]: military dictatorship controlling [[_Blackharbor|Blackharbor]] and the ruins of [[_Wafisa|Wafisa]]
-- [[The Saltborn]]: the rebellion opposing them in Blackharbor
 
 ## Gangs
 
@@ -39,8 +36,7 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 
 ## Known Relationships
 
-- [[Virodyne Labs]] secretly controls [[Kinetika Dynamics]], [[Prometheon Technologies]] (and by extension [[Nexus Trading]]), and [[Omnitek Holdings]]
-- [[Guardians of the Great Work]] and [[The Saltborn]] are locked in open conflict over Blackharbor
+- [[Virodyne Labs]] secretly controls [[Prometheon Technologies]] (and by extension [[Nexus Trading]]) and [[Omnitek Holdings]]
 - [[Drift Rats]] and [[Neon Fangs]] are rivals for territory on Camiri 4
 - [[Viktor Strake]], acting for Virodyne, has pursued the crew of [[The Scapegoat]] since early in their travels
 

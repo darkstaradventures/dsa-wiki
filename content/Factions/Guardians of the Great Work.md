@@ -27,7 +27,7 @@ Their methods are brutal: heavy taxation under threat of severe punishment, forc
 
 ## Relationships
 
-The Guardians are the sworn enemy of [[The Saltborn]], the rebellion operating within Blackharbor. In Episode 4, they stole [[The Scapegoat]] from the crew and impounded it at their airfield; the crew reclaimed it in Episode 7.
+In Episode 4, the Guardians stole [[The Scapegoat]] from the crew and impounded it at their airfield; the crew reclaimed it in Episode 7.
 
 ---
 *Appears in: Ep 4, 7*
