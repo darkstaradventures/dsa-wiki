@@ -5,9 +5,9 @@ aliases: [Kano]
 revealed_through: Episode 13
 ---
 
-Kano Rix was an ex-convict and bank robber with a reputation for pulling off high-risk heists with cool precision. He'd robbed six banks and been caught only once, and even then his crew got away with the money. He found religion in prison, joining a Shinto-tech offshoot called Shintech, whose adherents believe machines carry kami (spirits) of their own; he performed a small ritual of respect before using any piece of technology. In prison he became [[Thorne]]'s only real friend, and the two stayed loyal to each other afterward.
+Kano Rix was a cat burglar with a storied criminal history, described by [[Thorne]]'s mother as "extremely useful." He was a practitioner of Shintech, a faith concerned with speaking to the "spirits of the machine." He was [[Thorne]]'s best and only real friend.
 
-Physically he was a shorter, lean man with coppery skin and a thin, grey-streaked beard, with a far-off, daydreaming look in his eyes. He wore low-profile streetwear patched with Shintech symbols and carried a carved wooden kitsune amulet on a leather cord, along with a worn lucky coin from his first big score, which he'd fiddle with, and he meditated often using the kitsune as a focus.
+Physically he was a short, lean man with the sides of his head shaved and a tousled mess of hair on top. He wore loose streetwear in earth tones, patched with the symbols of his Shintech faith.
 
 Kano accompanied Thorne to a meeting in the alley behind [[Club KuroLuxe]] in [[_Polyphn|Polyphn]], and fought alongside the group during the ensuing gravcar chase and the assault on [[The Relay Tower]]. He was killed during the [[Nexus Trading|Nexus]] assault there.
 

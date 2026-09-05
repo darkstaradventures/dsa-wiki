@@ -5,9 +5,7 @@ aliases: [Halek]
 revealed_through: Episode 12
 ---
 
-Brother Halek was a charismatic, unsettling preacher, the cult leader of the [[Void Cultists]] operating out of [[_Scrapjacks|Scrapjacks]] truck stop. He spoke in riddles about "the hunger beyond the hull" and believed the crew were prophesied interlopers.
-
-Halek led the Void Cultists' hold on Scrapjacks. He was the last of the cultists to fall, killed by turret fire; as he died, he crawled to [[Haleyy]] and delivered a final, cryptic message about her being "untethered."
+Brother Halek led the small sect of [[Void Cultists]] that had taken over [[_Scrapjacks|Scrapjacks]] truck stop. He was the last of the cultists to fall, cut down by turret fire during the crew's retaking of the station. Dying, he crawled to [[Haleyy]], put his forehead against hers, and told her she was "untethered" like the cultists, insisting she was more like them than she thought before he died.
 
 ---
 *Appears in: Ep 10-12*
