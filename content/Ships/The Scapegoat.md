@@ -31,7 +31,6 @@ As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it and 
 | [[Haleyy]] | Muscle / Biopsionic |
 | Reginald "Froggy" Vance | Companion |
 | Dr. Iso | Doctor / Black market (joined Ep 23) |
-| The Concordant | Inert VI orb |
 | Buddy AI | Ship systems management |
 
 ## Key Events

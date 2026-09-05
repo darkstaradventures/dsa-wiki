@@ -5,7 +5,7 @@ aliases: [Vehicle Index]
 revealed_through: Episode 13
 ---
 
-An index of ground, air, and small space vehicles the crew has encountered. Ships with spike drives (capable of interstellar travel) have their own entries: [[The Scapegoat]], [[The Kid]], [[The Thalia]], and [[The Acceptable Loss]].
+An index of ground, air, and small space vehicles the crew has encountered. Ships with spike drives (capable of interstellar travel) have their own entries: [[The Scapegoat]], [[The Kid]], and [[The Acceptable Loss]].
 
 ## Crew Vehicle
 

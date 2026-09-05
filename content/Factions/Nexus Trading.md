@@ -13,9 +13,6 @@ Nexus Trading is a long-haul trading corporation, a subsidiary of [[Prometheon T
 |------|------|--------|
 | William Sallerist | Former managing director, Draxus Goods | Alive (in hiding) |
 | Rynn Kade | Agent on [[_Sibylen|Sibylen]]; cultist-aligned | Dead |
-| Dr. Sial | Ripperdoc informant on Polyphn | Alive |
-| Callum Vex | Draxus Goods hauler | Alive |
-| Harlan Rigg | Draxus Goods hauler | Alive |
 
 ## Locations
 

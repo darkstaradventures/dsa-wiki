@@ -9,7 +9,5 @@ Dr. Sial runs a ripperdoc clinic in the underground of [[_Polyphn|Polyphn]], ben
 
 An old ally of [[Mara Vex]], Sial installed her cybernetic modifications (a telescopic ocular implant and a cochlear "Ghost Talker" transceiver) and treated the crew when they arrived at his clinic needing care after a gravcar chase across the city.
 
-It was later revealed that Sial had been using his remote link through Mara's eye implant to feed [[Nexus Trading]] information on the group's movements the whole time, which explained how Nexus kept finding them. The betrayal set up the disastrous [[Nexus Trading|Nexus]] assault that followed at [[The Relay Tower]].
-
 ---
 *Appears in: Ep 13*

@@ -14,7 +14,7 @@ Virodyne experiments on human populations, runs prisoner conversion programs thr
 | Name | Role | Status |
 |------|------|--------|
 | Viktor Strake | Risk Management Officer / Enforcer | Alive (clones) |
-| Sally Gaylen | Tech expert | Merged into The Concordant |
+| Sally Gaylen | Tech expert | Merged into a Fork-created orb |
 
 ## Locations
 

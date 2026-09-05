@@ -15,7 +15,7 @@ A massive fuel tower reaches from the surface to orbit, with ships queuing along
 
 Surface locations include [[The Spigot]], [[Exosite 34b]] (an alien quarantine building), [[The Gloam Trenches]], and the He-3 mining fields. [[Laicar Research]], led by Vera Corbin, maintains a presence here, and [[Void Cultists]] and multiple corporations, including [[Virodyne Labs]] and Novacrypt Solutions, have taken interest as well.
 
-The crew arrived and met Vera Corbin, exploring the exosite (Ep 14). The Fork was activated (Ep 18), revealing a distant structure across space and alien entities that caused [[Haleyy]] to collapse. [[Viktor Strake]] later captured the crew, and an auction over the exosite was attacked by [[Void Cultists]], during which [[The Concordant]] was created through "the Joining" and Haleyy discovered a healing touch (Ep 21). The crew fled to [[The Spigot]] for repairs afterward (Ep 22).
+The crew arrived and met Vera Corbin, exploring the exosite (Ep 14). The Fork was activated (Ep 18), revealing a distant structure across space and alien entities that caused [[Haleyy]] to collapse. [[Viktor Strake]] later captured the crew, and an auction over the exosite was attacked by [[Void Cultists]], during which three people were merged into a single orb through "the Joining" and Haleyy discovered a healing touch (Ep 21). The crew fled to [[The Spigot]] for repairs afterward (Ep 22).
 
 ---
 *Appears in: Ep 14, Ep 15, Ep 16, Ep 17, Ep 18, Ep 21, Ep 22, Ep 23, Ep 24*

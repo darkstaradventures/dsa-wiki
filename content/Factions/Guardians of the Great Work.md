@@ -11,14 +11,6 @@ The Guardians number somewhere between 500 and 2,500 soldiers, based out of the 
 
 Their methods are brutal: heavy taxation under threat of severe punishment, forced labor squads sent to distant projects that many never return from, conscription of Blackharbor citizens, and seizure of crops, fuel, and batteries. Officers live in comfort while civilians starve. Guardian troops wear battered armor with golden shields and winged helmets, armed with laser rifles and shock knives.
 
-## Notable Members
-
-| Name | Role | Status |
-|------|------|--------|
-| Marshal Ulyx Carran | Fanatical leader | Alive |
-| Commissar Drelk Varro | Tax/labor enforcer | Alive |
-| Quartermaster Haelka Breen | Supplies (corrupt) | Alive |
-
 ## Locations
 
 - [[_Blackharbor|Blackharbor]]: primary base and controlled territory

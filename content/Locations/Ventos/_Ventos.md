@@ -5,7 +5,7 @@ aliases: [Ventos]
 revealed_through: Episode 19
 ---
 
-Ventos is a planet in the Thraxis system with inhospitable jungles, extremely hot and humid, and it serves as the system's breadbasket despite the harsh terrain. [[Haleyy]] grew up on [[Vigrid]], another planet in the same system.
+Ventos is a jungle planet, inhospitable, extremely hot and humid. <!-- REVIEW: earlier text named a "Thraxis system," called Ventos the system's breadbasket, and said Haleyy grew up on a planet called "Vigrid" in the same system -- none of this was found in the transcript and has been removed rather than guessed. -->
 
 Ventos was the site of the Red Rice Wars, a famine-driven war triggered by an invasive offworld insect that destroyed most food production. Rice was resistant, making it the staple crop, but there wasn't enough to go around. The government, a so-called meritocracy predicated on "good ideas" but in reality an oligarchy of ancestral privilege, hoarded food stores. A rebellion ignited but was ultimately crushed with [[Omnitek Holdings]] military backing, and the oligarchy remains in power.
 

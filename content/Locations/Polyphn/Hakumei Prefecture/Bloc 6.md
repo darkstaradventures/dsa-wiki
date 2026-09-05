@@ -2,12 +2,12 @@
 title: Bloc 6
 tags: [location]
 aliases: [Bloc 6]
-revealed_through: Episode 12
+revealed_through: Episode 13
 ---
 
-Bloc 6 is a residential district on [[Polyphn]] where [[Mara Vex]] and [[Brick]] grew up, containing multi-story residential towers. The Bloc had its own gangs, with Brick serving as an enforcer for one.
+Bloc 6 is a residential district on [[Polyphn]], a multi-story residential tower where [[Mara Vex]]'s family lived and where [[Brick]] grew up.
 
-A private maglev carrying William Sallerist and five others derailed and crashed into a Bloc 6 residential tower, officially killing all five occupants and twelve residents and injuring dozens more. [[Nexus Trading]] officers arrived on scene almost instantly and killed survivors they found. Mara Vex's entire family was killed in the crash; she barely escaped.
+About a year before the crew's visit to Polyphn, a maglev/transport crashed into the tower, killing William Sallerist and everyone aboard along with a number of local residents. The official story was that there were no survivors, but Mara Vex secretly survived and has spent the year since hunting for proof that Sallerist's death, and the crash, were staged.
 
 ---
-*Appears in: Ep 12*
+*Appears in: Ep 13*
