@@ -1,9 +1,26 @@
 @use "./variables.scss" as *;
 
 // Plain underlined links instead of the Obsidian-style highlighted pill
+// !important defensively, since this file (index.css) loads before
+// component stylesheets and equal-specificity rules there would win otherwise.
 a.internal {
-  background-color: transparent;
-  border-radius: 0;
-  padding: 0;
-  text-decoration: underline;
+  background-color: transparent !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  text-decoration: underline !important;
+}
+
+// Same treatment for tag pills (npc, location, etc. shown on each page)
+// !important because this rule lives in index.css, which loads before the
+// component stylesheet that defines the pill style, so equal specificity
+// alone loses regardless of source order within this file.
+.note-properties .note-properties-tags .tag-link {
+  background: transparent !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  text-decoration: underline !important;
+}
+.note-properties .note-properties-tags .tag-link:hover {
+  background: transparent !important;
+  color: var(--tertiary) !important;
 }
