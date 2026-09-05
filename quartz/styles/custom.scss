@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Plain underlined links instead of the Obsidian-style highlighted pill
+a.internal {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  text-decoration: underline;
+}
