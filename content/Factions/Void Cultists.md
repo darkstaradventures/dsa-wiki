@@ -19,15 +19,17 @@ An untethered person outside the cult is either someone the cult wants to recrui
 
 | Name | Role | Location | Status |
 |------|------|----------|--------|
-| Brother Halek | Preacher / truck stop leader | Scrapjacks | Alive |
-| Nesso Tharn | Second-in-command | Scrapjacks | Alive |
+| Brother Halek | Preacher / truck stop leader | Scrapjacks | Dead |
+| Nesso Tharn | Second-in-command | Scrapjacks | Dead |
 | Rynn Kade | Nexus Trading / cult liaison | [[_Sibylen|Sibylen]] | Dead |
-| Hierophant Kethrix | Black Spiral | Sibylen | Alive |
-| Sister Vaal | Voice of the Unseen Deep | Sibylen | Alive |
+| Hierophant Kethrix | Of the Black Spiral | Sibylen | Unclear |
+| Vale | Named alongside Kethrix, Zythek, and Barriss as cultists sent to apprehend the crew | Sibylen | Unclear |
+
+<!-- REVIEW: Kethrix and Vale's ultimate fates are not clearly confirmed in the Ep 24 transcript; several unnamed cultists die in the ensuing fight but it isn't clear which named individuals they were. Formerly listed as "Sister Vaal, Voice of the Unseen Deep" — that name/title isn't in the transcript; the actual name given is "Vale." -->
 
 ## Locations
 
-The cult took over the Scrapjacks truck stop (Ep 10-11) and attacked the auction at Exosite 34b on Sibylen (Ep 17). Their ship is a large, brutalist, black-and-gray vessel patched together from other ships' parts, unable to survive atmospheric entry, with a cargo hold that has carried sleeping Unhallowed.
+The cult took over the Scrapjacks truck stop (Ep 10-11) and attacked the auction at Exosite 34b on Sibylen (Ep 21-24). Their ship is a large, brutalist, black-and-gray vessel patched together from other ships' parts, unable to survive atmospheric entry, with a cargo hold that has carried sleeping Unhallowed.
 
 ## Technology
 
@@ -38,4 +40,4 @@ The cult's void ansible (or rift device) is a five-foot antenna with forked pron
 The cult is linked to [[Nexus Trading]] (through Rynn Kade), which in turn ties back to [[Virodyne Labs]]. Beyond that connection, the cult counts nearly everyone else as an enemy.
 
 ---
-*Appears in: Ep 10, 11, 17, 23*
+*Appears in: Ep 10, 11, 21, 22, 23, 24*

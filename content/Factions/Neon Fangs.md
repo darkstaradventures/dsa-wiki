@@ -14,8 +14,8 @@ Guards are polite and keep order, functioning less like criminals and more like 
 | Name | Role | Status |
 |------|------|--------|
 | Roger Neronta | Guard, owns Roger's Billiards | Alive |
-| Cecelia Neronta | Roger's wife, runs the bar | Alive |
-| Axel Neronta | Roger's son | Alive |
+| Roger's wife | Runs the bar alongside Axel (name not given on-air) | Alive |
+| Axel Neronta | Roger's eldest, runs the bar/pool hall | Alive |
 
 ## Locations
 

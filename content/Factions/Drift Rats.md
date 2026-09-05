@@ -17,7 +17,6 @@ The crew of [[The Scapegoat]] stored their ship in Drift Rats territory early on
 |------|------|--------|
 | Torik "Rustclaw" Sarr | Leader | Dead |
 | Box | Guard | Alive |
-| Renik | Guard | Alive |
 
 ## Locations
 

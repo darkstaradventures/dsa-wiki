@@ -15,7 +15,7 @@ After his release, Thorne was posted to [[_Polyphn|Polyphn]], where during a mon
 
 ## Legal Genius
 
-In Episode 17, when [[Viktor Strake]] captured the crew, Thorne used InterCorporate policy to argue they were technically [[Laicar Research]] employees under a legally binding contract with [[Scapegoat Solutions LLC]], the legal entity he founded, forcing Strake to release them for 24 hours.
+In Episode 21, when [[Viktor Strake]] captured the crew, Thorne used InterCorporate policy to argue they were technically [[Laicar Research]] employees under a legally binding contract with [[Scapegoat Solutions LLC]], the legal entity he founded, forcing Strake to release them for 24 hours.
 
 ## Personality and Relationships
 
@@ -32,4 +32,4 @@ Thorne carries a laser pistol and a laser rifle, and wears an Armored Undersuit.
 Free Patreon bonus content covers Thorne's favorite memory, his fears, a secret from his home world of Zephyrus Three, and his sense of familial responsibility.
 
 ---
-*Appears in: Ep 1, 2, 3, 13, 17, 29*
+*Appears in: Ep 1, 2, 3, 13, 21, 29*

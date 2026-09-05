@@ -19,7 +19,7 @@ It carries a multifocal laser and a sandthrower for weapons, 120 tons of pressur
 
 ## Current Status
 
-As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it and its spike drive guidance is fried, and its ownership module needs a black-market replacement. Its security module was overwritten with Omnitek admin code by [[Viktor Strake]], and [[Dr. Elara Voss]]'s VI reprogramming left its physical controls broken, requiring an autonomous system to manage them, a role now filled by [[Buddy AI]], a copy [[Felix Champlin]] made of a hacked AI's source code. Voss herself was taken from the ship in Episode 17; she had encoded a secret heading toward [[Prometheon Technologies]] into one of Strake's communications before her capture.
+As of Episode 22, the Scapegoat has taken damage: its hull has a hole in it and its spike drive guidance is fried, and its ownership module needs a black-market replacement. Its security module was overwritten with Omnitek admin code by [[Viktor Strake]], and [[Dr. Elara Voss]]'s VI reprogramming left its physical controls broken, requiring an autonomous system to manage them, a role now filled by [[Buddy AI]], a copy [[Felix Champlin]] made of a hacked AI's source code. Voss herself was taken from the ship in Episode 21.
 
 ## Crew
 
@@ -30,7 +30,7 @@ As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it and 
 | [[Felix Champlin]] | Hacker / Comms |
 | [[Haleyy]] | Muscle / Biopsionic |
 | Reginald "Froggy" Vance | Companion |
-| Dr. Iso | Doctor / Black market (joined Ep 23) |
+| Dr. Iso | Doctor / Black market (joined Ep 27) |
 | Buddy AI | Ship systems management |
 
 ## Key Events
@@ -38,9 +38,9 @@ As of Episode 23, the Scapegoat has taken damage: its hull has a hole in it and 
 - **Ep 2:** Named "The Scapegoat"; departed Camiri 4.
 - **Ep 4:** Stolen by the [[Guardians of the Great Work]] and taken to the [[_Blackharbor|Blackharbor]] airfield.
 - **Ep 7:** Reclaimed by the crew; Dr. Elara Voss transferred aboard.
-- **Ep 17:** Locked down by Viktor Strake's admin code, spike drive fried, Voss taken captive.
-- **Ep 22:** Emergency flight to The Spigot for repairs; [[The Kid]] shuttle stored in the cargo hold.
-- **Ep 23:** Dr. Iso joins the crew.
+- **Ep 21:** Locked down by Viktor Strake's admin code, spike drive fried, Voss taken captive.
+- **Ep 25:** Emergency flight to The Spigot for repairs.
+- **Ep 27:** Dr. Iso joins the crew; [[The Kid]] shuttle captured and stored in the cargo hold.
 
 ---
-*Appears in: Ep 2, 4, 7, 17, 22, 23*
+*Appears in: Ep 2, 4, 7, 21, 22, 25, 27*

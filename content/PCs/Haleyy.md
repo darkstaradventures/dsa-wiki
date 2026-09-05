@@ -17,7 +17,7 @@ Haleyy's true identity was revealed to the crew at The Spigot: she is Haley, wit
 
 ## Biopsionic Powers
 
-Haleyy has been struck by void or alien-fork energy multiple times: first on Ventos (in flashback), again by a void tendril at Scrapjacks, and a third time during an exosite fork activation on [[_Sibylen|Sibylen]]. These contacts unlocked bio-electromagnetic and healing abilities, which first activated involuntarily in Episode 24 when she healed [[Thorne]]'s gunshot wound during the auction finale, collapsing from the exertion immediately afterward. A brain scan in Episode 23 detected crystalline micro-structures throughout her brain alongside other physiological changes, later confirmed to be progressing toward a dangerous full-consumption timeline. The [[Void Cultists]] have identified her as "untethered": someone who has touched the void naturally, without their ritual.
+Haleyy has been struck by void or alien-fork energy multiple times: first on Ventos (in flashback), again by a void tendril at Scrapjacks, and a third time during an exosite fork activation on [[_Sibylen|Sibylen]]. These contacts unlocked bio-electromagnetic and healing abilities, which first activated involuntarily in Episode 24 when she healed [[Thorne]]'s gunshot wound, collapsing from the exertion immediately afterward. A brain scan at Dr. Iso's shop in Episode 25 detected crystalline micro-structures throughout her brain alongside other physiological changes (elevated heart rate, high blood pressure, low glucose). The [[Void Cultists]] have identified her as "untethered": someone who has touched the void naturally, without their ritual.
 
 ## Gear
 
@@ -28,4 +28,4 @@ Haleyy fights with a revolver, a large advanced weapon, a laser rifle, and her b
 Free Patreon bonus content covers Haleyy's endurance during military training, her first offworld missions for Omnitek, and a letter home from her earliest days in service.
 
 ---
-*Appears in: Ep 10, 11, 18, 19, 20, 21, 23, 24, 28*
+*Appears in: Ep 10, 11, 18, 19, 20, 21, 23, 24, 25, 28*

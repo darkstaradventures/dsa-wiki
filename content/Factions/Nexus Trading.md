@@ -2,7 +2,7 @@
 title: Nexus Trading
 tags: [faction]
 aliases: [Nexus, Nexus Corp, Draxus Goods]
-revealed_through: Episode 17
+revealed_through: Episode 13
 ---
 
 Nexus Trading is a long-haul trading corporation, a subsidiary of [[Prometheon Technologies]] (itself controlled by [[Virodyne Labs]]). Its own subsidiary, Draxus Goods, is officially a textile manufacturing and distribution company headquartered in Hakumei Prefecture on [[_Polyphn|Polyphn]], but it also trades in alien artifacts recovered from [[_Wafisa|Wafisa]].
@@ -20,7 +20,7 @@ Hakumei Prefecture, Polyphn (corporate headquarters); a Draxus Goods ship kept i
 
 ## Relationships
 
-Rynn Kade, a Nexus agent on Sibylen, was tied to the [[Void Cultists]], a connection that came to light during the cult's attack on the Sibylen auction in Episode 17, where Kade died.
+Rynn Kade, a Nexus agent on Sibylen, was tied to the [[Void Cultists]], a connection that came to light during the cult's attack on the Sibylen auction. Kade was killed by the crew in Episode 24, in the exosite chamber where the cult was attempting to overwrite Dr. Elara Voss.
 
 ---
-*Appears in: Ep 17*
+*Appears in: Ep 13, 21, 22, 23, 24*
