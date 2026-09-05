@@ -5,11 +5,9 @@ aliases: [Camiri 4, Camira 4, Camira IV]
 revealed_through: Episode 2
 ---
 
-Camiri 4 is a space station at the edge of inhabited space. Once a hub for research and development, it has spent the past twenty years becoming a haven for black market drugs and illicit activity. There is no governing authority here; it's simple anarchy.
+Camiri 4 is a space station orbiting the gas giant Camiri in the Schroeter system. Once a hub for research and development, it has spent the past twenty years becoming a haven for black market drugs and illicit activity. There is no governing authority here; it's simple anarchy.
 
 The station's corridors are dirty and grimy, organized by numbered docking bay sections, with the air smelling of rust and old fuel and malfunctioning lights flickering overhead. A day/night cycle dims the lights on a timer toward evening, warming everything to a yellowish tint.
-
-<!-- REVIEW: transcript does not confirm the station's system, what it orbits, or its position relative to Polyphn/Sibylen -- prior text asserting a "Schroeter system," an orbited gas giant, and a "south side of Polyphn" location was unconfirmed and has been removed. -->
 
 Sub-locations include the [[Drift Rats]]' territory in Docking Bays 50-80, the [[Neon Fangs Territory|Neon Fangs' territory]] running roughly from Docking Bay 20 into the low forties, [[Roger's Billiards]] within Neon Fangs territory, and the [[Gas Mining Front]], a fake Omnitek recruiting office and the only Omnitek presence on the station.
 

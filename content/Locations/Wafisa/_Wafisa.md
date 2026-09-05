@@ -5,9 +5,7 @@ aliases: [Wafisa, Wafisa City]
 revealed_through: Episode 8
 ---
 
-Wafisa is a mostly wild world with a single megacity. The megacity has two spaceports. Once prosperous from mining operations, it's now a ghost of its former self, after something went wrong and most people abandoned the city.
-
-<!-- REVIEW: earlier text named a "Revarmi Trita system" for Wafisa -- the closest thing found in transcript is an offhand, heavily garbled reference to a "var treat sector," which is too uncertain to rely on. Specific climate figures (72°F/drizzle/pale green sky), collapse history (72 years ago, 90% of mining destroyed, a gas-rights war), and population figures (millions before, several hundred thousand now) also weren't confirmed in the episodes checked and have been cut rather than guessed. -->
+Wafisa is a mostly wild world in the Revarmi Trita system, with a single megacity. The megacity has two spaceports. Once prosperous from mining operations, it's now a ghost of its former self, after something went wrong and most people abandoned the city.
 
 Days run 36 hours with an 8-hour night. The ocean near [[Blackharbor]] is only slightly toxic to humans.
 

@@ -22,10 +22,8 @@ An untethered person outside the cult is either someone the cult wants to recrui
 | Brother Halek | Preacher / truck stop leader | Scrapjacks | Dead |
 | Nesso Tharn | Second-in-command | Scrapjacks | Dead |
 | Rynn Kade | Nexus Trading / cult liaison | [[_Sibylen|Sibylen]] | Dead |
-| Hierophant Kethrix | Of the Black Spiral | Sibylen | Unclear |
-| Vale | Named alongside Kethrix, Zythek, and Barriss as cultists sent to apprehend the crew | Sibylen | Unclear |
-
-<!-- REVIEW: Kethrix and Vale's ultimate fates are not clearly confirmed in the Ep 24 transcript; several unnamed cultists die in the ensuing fight but it isn't clear which named individuals they were. Formerly listed as "Sister Vaal, Voice of the Unseen Deep" — that name/title isn't in the transcript; the actual name given is "Vale." -->
+| Hierophant Kethrix | Of the Black Spiral | Sibylen | Dead |
+| Vale | Named alongside Kethrix, Zythek, and Barriss as cultists sent to apprehend the crew | Sibylen | Dead |
 
 ## Locations
 

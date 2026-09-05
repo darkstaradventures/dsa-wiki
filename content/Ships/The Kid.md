@@ -9,7 +9,7 @@ The Kid is a small Omnitek shuttle the crew captured at The Spigot spaceport in 
 
 Formerly registered under Omnitek as *Life Is Unfair*, the crew renamed it after capture; its ownership module is still locked to Omnitek and needs replacing.
 
-When the crew boarded it, the shuttle held a [[Robert Ross]] clone, and Felix warned there could be up to three other people aboard, so he probably wasn't alone. A recent message found on the shuttle's systems had changed a standing order to track [[The Scapegoat]] into an order to eliminate the crew. <!-- REVIEW: specific loot recovered aboard (credits, datapad, weapons, armor) not confirmed by grep of Ep 26-28; left out pending verification. -->
+When the crew boarded it, the shuttle held a [[Robert Ross]] clone, and Felix warned there could be up to three other people aboard, so he probably wasn't alone. A recent message found on the shuttle's systems had changed a standing order to track [[The Scapegoat]] into an order to eliminate the crew.
 
 ---
 *Appears in: Ep 26, 27*

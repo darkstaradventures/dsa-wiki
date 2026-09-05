@@ -5,9 +5,7 @@ aliases: [Scrapjacks, Scrapjack Refueling and Grub, Scrapjack's, Scrapjacks Truc
 revealed_through: Episode 10
 ---
 
-Scrap Jack's Refueling and Grub is an interstellar truck stop and fuel depot orbiting near the desert world [[Pare]], far out from the inner systems. It has ten landing pads and serves as a waypoint for long-haul spacers, run by an administrator named Yana with a station AI named Buddy.
-
-<!-- REVIEW: earlier text asserted an "Anagris system," a spike-drive/relocation history for the station, and a six-person security count -- none of this was found in the transcripts and has been removed. -->
+Scrap Jack's Refueling and Grub is an interstellar truck stop and fuel depot in the Anagris system, orbiting near the desert world [[Pare]], far out from the inner systems. It has ten landing pads and serves as a waypoint for long-haul spacers, run by an administrator named Yana with a station AI named Buddy.
 
 The station enforces a strict no-weapons policy, with scanning at the airlock and key-card access for the visitor dorms. Security carries only batons.
 
