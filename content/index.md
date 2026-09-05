@@ -3,7 +3,7 @@ title: Dark Star Adventurecast Wiki
 tags: [start-here]
 ---
 
-Every crew member, NPC, alien ruin, and shady corp from Dark Star Adventurecast gets tracked here, and nothing goes up before the episode does. If you're caught up through Episode 29, you're caught up with this wiki. Nothing past that point lives here yet.
+Every crew member, NPC, alien ruin, and shady corp from Dark Star Adventurecast gets tracked here, and nothing goes up before the episode does. If you're caught up through Episode 30, you're caught up with this wiki. Nothing past that point lives here yet.
 
 Dark Star Adventurecast is an actual-play Stars Without Number podcast: four expendable contractors get pulled into a job that isn't what it looks like, and the crew of [[The Scapegoat]] has been digging out from under it ever since. New here? Start with the [[Timeline|Season 1 So Far]] page for the story up to now, or jump straight to [[Episode Guide]] for episode-by-episode detail.
 

@@ -102,5 +102,7 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **Episode 29:** The crew fights off security drones at Causeway 3 while Felix's hack confirms Voss and Strake were taken to Prometheon Station, and turns up an older trail: an Omnitek data vault, carrying Petey's digitized consciousness, that made the same one-way trip years earlier. The crew escapes and spike-drills toward Prometheon Station with a security patrol closing in behind them.
 
+**Episode 30:** The pursuing patrol boat forces the crew to push the Scapegoat's engines to a full burnout. Robert buys time with the ship's one-time ECM burst, Froggy stages a comic bid for captaincy at the comms station, and Haleyy finally lands the finishing shot after recalibrating her sand chucker. The patrol boat is destroyed, closing out the Causeway 3 arc for good, and the crew begins the long journey to Prometheon Station.
+
 ---
-*Source: sector history and pre-campaign backstory adapted from the Viridian Expanse Sector Guide; Season 1 campaign events cross-referenced against episode transcripts through Episode 29.*
+*Source: sector history and pre-campaign backstory adapted from the Viridian Expanse Sector Guide; Season 1 campaign events cross-referenced against episode transcripts through Episode 30.*

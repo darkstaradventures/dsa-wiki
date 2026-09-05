@@ -28,4 +28,6 @@ Battered and short a Virtual Intelligence, the crew makes for [[_The Spigot|The 
 ## Causeway 3: the trail to Prometheon
 With coordinates Voss had hidden inside one of Strake's own transmissions, the crew makes an eighteen-day journey to an unlisted station called [[Causeway 3]]. Getting inside means talking, hacking, and bluffing their way past security, but it pays off: they confirm that [[The Acceptable Loss]] carried both Strake and Voss to Prometheon Station, and they turn up an older, deeper trail suggesting an Omnitek data vault made the same one-way trip years before. The discovery comes at a cost. The station's security turns hostile, and the crew has to fight off swarms of drones just to get back to their ship and start the drill toward Prometheon, with a faster security vessel already closing in behind them as they go.
 
-That's where things stand as of Episode 29: a battered but intact crew, a confirmed destination, and pursuers on their tail. Catch up episode by episode on the [[Episode Guide]].
+The pursuit nearly costs them the ship itself: pushing the engines to escape burns them out entirely, leaving the Scapegoat dead in space until [[Haleyy]] finally lands a finishing shot on the pursuing patrol boat. With the threat gone, the crew closes the book on Causeway 3 for good and settles in for the long haul to Prometheon Station.
+
+That's where things stand as of Episode 30: a battered but intact crew, a confirmed destination, and a long journey ahead. Catch up episode by episode on the [[Episode Guide]].
