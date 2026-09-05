@@ -68,39 +68,41 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **Pre-Episode 1:** Thorne (39) is released two years early, tracked [[William Sallerist]] across [[_Hakumei Prefecture|Hakumei Prefecture]] with [[Mara Vex]], [[Brick]], and [[Kano Rix]], and discovered his own mother had framed him after Brick and Kano were killed and Mara was captured. Robert links back up with the amnesiac Haleyy, and Felix manipulates his own assignment to the mission. [[Dr. Elara Voss|Voss]] fabricates a recruitment mission and arranges [[The Scapegoat]] at [[_Camiri 4|Camiri 4]].
 
-**Episodes 1-2 (Camiri 4):** The crew assembles; Felix and Thorne recognize each other from Echo 3. They negotiate with the [[Drift Rats]], hack the [[Neon Fangs]], name the ship, and fight off strike fighters on departure.
+**Episodes 1-2 ([[Episode Guide#Episode 1: Better a Rat in the Drift...|Camiri 4]]):** The crew assembles; Felix and Thorne recognize each other from Echo 3. They negotiate with the [[Drift Rats]], hack the [[Neon Fangs]], name the ship, and fight off strike fighters on departure.
 
-**Episodes 3-8 (Wafisa):** The crew collects Voss from Mistretta 4, passes through Blackharbor, and gains [[Reginald Froggy Vance|Froggy]] as a crewmate. Voss reveals she is a Virtual Intelligence, and the crew escapes with Froggy, Voss, and [[The Aurora]].
+**Episodes 3-8 ([[Episode Guide#Episode 3: Wafisa? I hardly know her!|Wafisa]]):** The crew collects Voss from Mistretta 4, passes through Blackharbor, and gains [[Reginald Froggy Vance|Froggy]] as a crewmate. Voss reveals she is a Virtual Intelligence, and the crew escapes with Froggy, Voss, and [[The Aurora]].
 
-**Episode 9 (Felix's Story):** Flashback to the Orbital Data Vault heist. Felix reveals Petey is trapped as an AI in Omnitek's servers.
+**Episode 9 ([[Episode Guide#Episode 9: Brother's Keeper: Felix's Story|Felix's Story]]):** Flashback to the Orbital Data Vault heist. Felix reveals Petey is trapped as an AI in Omnitek's servers.
 
-**Episodes 10-12 (Scrapjack's):** The crew stops for fuel and finds the [[Void Cultists]] have seized the station, tearing a rift in spacetime with a void ansible. Haleyy is touched by a void tendril.
+**Episodes 10-12 ([[Episode Guide#Episode 10: Rest and Relaxation|Scrapjack's]]):** The crew stops for fuel and finds the [[Void Cultists]] have seized the station, tearing a rift in spacetime with a void ansible. Haleyy is touched by a void tendril.
 
-**Episode 13 (Thorne's Story):** Flashback to Hakumei Prefecture on Polyphn: the gravcar chase, the Relay Tower assault, and the reveal that Thorne's own mother framed him.
+**Episode 13 ([[Episode Guide#Episode 13: Nexus of Betrayal: Thorne's Story|Thorne's Story]]):** Flashback to Hakumei Prefecture on Polyphn: the gravcar chase, the Relay Tower assault, and the reveal that Thorne's own mother framed him.
 
-**Episodes 14-18 (Sibylen):** The crew arrives at Sibylen and meets [[Vera Corbin]] at [[Exosite 34b]]. They explore the alien quarantine building, activate the Fork, and glimpse Prometheon Station and alien entities through a window across space.
+**Episodes 14-18 ([[Episode Guide#Episode 14: The Potential Profit Is...|Sibylen]]):** The crew arrives at Sibylen and meets [[Vera Corbin]] at [[Exosite 34b]]. They explore the alien quarantine building, activate the Fork, and glimpse Prometheon Station and alien entities through a window across space.
 
-**Episode 19 (Robert's Story):** Robert reveals he is clone RR7. Flashback to Ventos: Strike Force 6, the cave, the fork, Haley's death and return.
+**Episode 19 ([[Episode Guide#Episode 19: The Truth About Haley: Robert's Story|Robert's Story]]):** Robert reveals he is clone RR7. Flashback to Ventos: Strike Force 6, the cave, the fork, Haley's death and return.
 
-**Episode 20 (Haleyy's Story):** Still unconscious after the Fork activation, Haleyy is pulled into a dream by the rest of the crew, confronting her fractured identity. Haley and Haleyy merge into one person. She wakes bound and captured.
+**Episode 20 ([[Episode Guide#Episode 20: She Never Existed: Haleyy's Story|Haleyy's Story]]):** Still unconscious after the Fork activation, Haleyy is pulled into a dream by the rest of the crew, confronting her fractured identity. Haley and Haleyy merge into one person. She wakes bound and captured.
 
-**Episode 21:** [[Viktor Strake]] captures the crew; [[Thorne]] wins a temporary release through InterCorporate law. The [[Void Cultists]] attack the Sibylen auction, and [[Vera Corbin]], [[Meer Prust]], and [[Sally Gaylen]] are merged into a single orb through a ritual called the Joining. Haleyy discovers a healing touch.
+**Episode 21 ([[Episode Guide#Episode 21: Welcome to Your Prison|Welcome to Your Prison]]):** [[Viktor Strake]] captures the crew; [[Thorne]] wins a temporary release through InterCorporate law. The [[Void Cultists]] attack the Sibylen auction, and [[Vera Corbin]], [[Meer Prust]], and [[Sally Gaylen]] are merged into a single orb through a ritual called the Joining. Haleyy discovers a healing touch.
 
-**Episode 22:** Trapped aboard the locked-down Scapegoat, the crew destroys an attacking Void Cultist ship, then breaks free onto Sibylen, where Felix learns Voss is gone.
+**Episode 22 ([[Episode Guide#Episode 22: Good Job, You Monster|Good Job, You Monster]]):** Trapped aboard the locked-down Scapegoat, the crew destroys an attacking Void Cultist ship, then breaks free onto Sibylen, where Felix learns Voss is gone.
 
-**Episode 23:** The crew assaults the Void Cultist exosite to rescue captured Unhallowed, including Froggy. Haleyy discovers she can command the Unhallowed.
+**Episode 23 ([[Episode Guide#Episode 23: Pick Up the Box|Pick Up the Box]]):** The crew assaults the Void Cultist exosite to rescue captured Unhallowed, including Froggy. Haleyy discovers she can command the Unhallowed.
 
-**Episode 24:** Haleyy evacuates the Unhallowed and the crew finds the Fork active with [[Rynn Kade]] presiding. Kade dies in the fight, and Haleyy discovers latent biosionic healing powers just in time to save Thorne's life. The Fork completes regardless, producing a second orb.
+**Episode 24 ([[Episode Guide#Episode 24: Boom! Biosionics!|Boom! Biosionics!]]):** Haleyy evacuates the Unhallowed and the crew finds the Fork active with [[Rynn Kade]] presiding. Kade dies in the fight, and Haleyy discovers latent biosionic healing powers just in time to save Thorne's life. The Fork completes regardless, producing a second orb.
 
-**Episode 25:** The crew arrives at [[_The Spigot|The Spigot]] for medical help and a black-market ownership module. [[Dr. Iso]] finds crystalline growths in Haleyy's brain and turns out to be a clone of Robert's own line.
+**Episode 25 ([[Episode Guide#Episode 25: Rock Tumor|Rock Tumor]]):** The crew arrives at [[_The Spigot|The Spigot]] for medical help and a black-market ownership module. [[Dr. Iso]] finds crystalline growths in Haleyy's brain and turns out to be a clone of Robert's own line.
 
-**Episode 26:** The crew breaches a derelict Omnitek ship and confronts another Robert-line clone, DT7X, who is killed before he can reveal more about the command structure hunting them.
+**Episode 26 ([[Episode Guide#Episode 26: You're a Good Person, Robert|You're a Good Person, Robert]]):** The crew breaches a derelict Omnitek ship and confronts another Robert-line clone, DT7X, who is killed before he can reveal more about the command structure hunting them.
 
-**Episode 27:** Iso's shop is bombed, pushing her to fully commit to the crew. The crew steals an ownership module shipment from the Helium Docks, Iso officially joins the crew, and Felix brings [[Buddy AI]] back online.
+**Episode 27 ([[Episode Guide#Episode 27: Life Is Unfair|Life Is Unfair]]):** Iso's shop is bombed, pushing her to fully commit to the crew. The crew steals an ownership module shipment from the Helium Docks, Iso officially joins the crew, and Felix brings [[Buddy AI]] back online.
 
-**Episode 28:** Felix uncovers coordinates hidden in one of Strake's own transmissions, pointing toward [[Causeway 3]]. Dr. Iso gives Haleyy a grim prognosis on the crystalline growth in her brain. The crew reaches Causeway 3 and is met with hostile security.
+**Episode 28 ([[Episode Guide#Episode 28: I'm Not Angry, I'm Disappointed|I'm Not Angry, I'm Disappointed]]):** Felix uncovers coordinates hidden in one of Strake's own transmissions, pointing toward [[Causeway 3]]. Dr. Iso gives Haleyy a grim prognosis on the crystalline growth in her brain. The crew reaches Causeway 3 and is met with hostile security.
 
-**Episode 29:** The crew fights off security drones at Causeway 3 while Felix's hack confirms Voss and Strake were taken to Prometheon Station, and turns up an older trail: an Omnitek data vault, carrying Petey's digitized consciousness, that made the same one-way trip years earlier. The crew escapes and spike-drills toward Prometheon Station with a security patrol closing in behind them.
+**Episode 29 ([[Episode Guide#Episode 29: Eleven Rounds|Eleven Rounds]]):** The crew fights off security drones at Causeway 3 while Felix's hack confirms Voss and Strake were taken to Prometheon Station, and turns up an older trail: an Omnitek data vault, carrying Petey's digitized consciousness, that made the same one-way trip years earlier. The crew escapes and spike-drills toward Prometheon Station with a security patrol closing in behind them.
+
+**Episode 30 ([[Episode Guide#Episode 30: You Broke the Ship, Robert|You Broke the Ship, Robert]]):** The pursuing patrol boat forces the crew to push the Scapegoat's engines to a full burnout. Robert buys time with the ship's one-time ECM burst, Froggy stages a comic bid for captaincy at the comms station, and Haleyy finally lands the finishing shot after recalibrating her sand chucker. The patrol boat is destroyed, closing out the Causeway 3 arc for good, and the crew begins the long journey to Prometheon Station.
 
 **Episode 30:** The pursuing patrol boat forces the crew to push the Scapegoat's engines to a full burnout. Robert buys time with the ship's one-time ECM burst, Froggy stages a comic bid for captaincy at the comms station, and Haleyy finally lands the finishing shot after recalibrating her sand chucker. The patrol boat is destroyed, closing out the Causeway 3 arc for good, and the crew begins the long journey to Prometheon Station.
 
