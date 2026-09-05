@@ -5,7 +5,7 @@ aliases: [Exosite 34b, Sibylen Exosite 34b]
 revealed_through: Episode 24
 ---
 
-Exosite 34b is an alien quarantine building discovered by Vera Corbin, buried under the sands of [[Sibylen]] and long since abandoned. The entrance is a steel door, about eight feet tall, embedded in a dune, marked with a band of sweeping tendril-like alien writing, surrounded by a one-acre dig site of colored flags, steel ladders, and crates. <!-- REVIEW: earlier text gave specific wall-thickness/ceiling-height/doorway dimensions for the interior; these weren't confirmed in the transcript excerpts checked and have been cut rather than guessed. -->
+Exosite 34b is an alien quarantine building discovered by Vera Corbin, buried under the sands of [[Sibylen]] and long since abandoned. The entrance is a steel door, about eight feet tall, embedded in a dune, marked with a band of sweeping tendril-like alien writing, surrounded by a one-acre dig site of colored flags, steel ladders, and crates.
 
 The upper floor holds a chamber of large goo vats and a "pool room" containing a submersible "digital ocean" (a local alien network, like a LAN), as well as an annihilation bot, a multi-armed defensive machine the crew destroyed. A sublevel below holds a round "nautilus" room with a spiral ridge and a ceiling-mounted track system connecting to the vats above, the Fork Chamber containing the Paracausal Bifurcation Array (known as the Fork, a three-tined black metal pylon), and a surgical room where two "chainsaw" surgical spider-bots once operated on patients. A goo-powered transparent tube leads out through the wall on the sublevel, filling with goo over about two hours to serve as an escape route.
 
