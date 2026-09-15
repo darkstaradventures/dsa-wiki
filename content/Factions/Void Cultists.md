@@ -37,5 +37,7 @@ The cult's void ansible (or rift device) is a five-foot antenna with forked pron
 
 The cult is linked to [[Nexus Trading]] (through Rynn Kade), which in turn ties back to [[Virodyne Labs]]. Beyond that connection, the cult counts nearly everyone else as an enemy.
 
+[[The Listeners]], the gas-masked faction encountered running [[Prometheon Station]] under [[Sabien]] (Ep 31-32), are cultists of this same order, though their relationship to the cult's main body seen at Scrapjacks and Sibylen is unconfirmed.
+
 ---
-*Appears in: Ep 10, 11, 21, 22, 23, 24*
+*Appears in: Ep 10, 11, 21, 22, 23, 24, 31, 32*

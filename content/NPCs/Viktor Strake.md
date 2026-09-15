@@ -25,5 +25,7 @@ Strake's known gear includes a laser pistol and a physical Virodyne admin key ca
 
 When the crew boarded [[Prometheon Station]] (Ep 31), Strake watched them from a glassed-in control room as they fled a horde of Unhallowed across a catwalk, keying a nearby radio to needle them: "the Scapegoaters... welcome to Prometheon Station. I'm surprised to see that you've made it this far," followed by "I think you're arriving very late, actually. Almost too late, but it's almost time. Let's just say you're in for one hell of a ride." He let them keep running rather than intervening directly.
 
+Still trapped in the loop in Episode 32, Strake worked his own angle rather than [[The Listeners|the Listeners]]'. He left [[Thorne]] a handwritten note proposing they work together since their goals didn't have to conflict, and later killed five Listeners, including their leader [[Sabien]], to clear the crew's path to the station's admin wing, leaving only a note reading "you're welcome" on the bodies. In that same office, the crew found a framed photograph of [[Victor Saren]] that showed him with Strake's exact face, roughly forty years older, a resemblance too close to be coincidence.
+
 ---
-*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28, Ep 31*
+*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28, Ep 31, Ep 32*

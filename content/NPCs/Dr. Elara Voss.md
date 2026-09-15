@@ -21,5 +21,7 @@ Voss was taken by [[Viktor Strake]] during the auction at [[_The Spigot|the Spig
 
 The crew finally laid eyes on her again on [[Prometheon Station]] (Ep 31), spotted through a reinforced porthole wired into a pedestal at the center of a sealed lab, guarded by two researchers. Before the crew could force their way in, the researchers were killed by a burst of gas released into the room, and the crew never reached Voss before the scene reset in a time loop, leaving her status and condition unconfirmed.
 
+The crew finally made contact with her in Episode 32, trapped along with her in the recurring loop on the station. She's only conscious for a short window near the end of each loop; [[Thorne]] managed to reach her through [[Victor Saren|Saren]]'s own terminal for a brief exchange before the connection cut out, during which she warned that she couldn't be safely disconnected, that others had tried and failed, and that she could hear "the voices" of whatever the station's gyroscope was reaching toward but couldn't answer them, being only "one ear to listen." [[Felix Champlin|Felix]] disconnected her from the rig anyway, against her own warning and over [[Robert Ross|Robert]]'s drawn gun, in the same moment the loop reset again.
+
 ---
-*Appears in: Ep 1, 3-8, 21, 22, 28, 31*
+*Appears in: Ep 1, 3-8, 21, 22, 28, 31, 32*

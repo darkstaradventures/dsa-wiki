@@ -29,7 +29,7 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 ## Cults
 
 - [[Void Cultists]]: seek "void ascension," encountered at Scrapjacks and Sibylen
-- [[The Listeners]]: masked group claiming a shared connection to the void, encountered at Prometheon Station
+- [[The Listeners]]: gas-masked Void Cultist faction running Prometheon Station under Sabien
 
 ## The Crew
 

@@ -15,5 +15,7 @@ Her shop was later found bombed and burned, a second Robert-line clone dead insi
 
 Since joining, she's continued monitoring Haleyy's condition, delivering updated brain scans showing the crystalline growth accelerating (by her estimate, total crystallization within about six months at the current rate), while noting Haleyy seems to be resisting the process better than [[Reginald Froggy Vance|Froggy]] did. She's been unable to get access to Froggy in his nest, as he'll only call for [[Vera Corbin|Vera]]. When the crew left for Causeway 3, Thorne left her a communicator in case they needed her back.
 
+Aboard [[Prometheon Technologies|Prometheon Station]] in Episode 32, Iso turned out not to reset along with the rest of the crew when the station's time loop restarts, leaving her with hours of memory the others don't share each cycle. She stood watch on the ship's medbay between loops and, in the loop the crew finally reached [[Victor Saren|Saren]]'s office, stayed behind with [[Thorne]] to hold the station's dead man's switch while the others went for [[Dr. Elara Voss|Voss]].
+
 ---
-*Appears in: Ep 25, Ep 26, Ep 27, Ep 28*
+*Appears in: Ep 25, Ep 26, Ep 27, Ep 28, Ep 32*
