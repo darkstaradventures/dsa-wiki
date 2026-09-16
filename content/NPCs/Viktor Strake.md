@@ -23,5 +23,7 @@ By Episode 28, Causeway 3 transit logs (recovered by Felix from the first securi
 
 Strake's known gear includes a laser pistol and a physical Virodyne admin key capable of locking down [[The Scapegoat]] and handing Virodyne control of the ship.
 
+When the crew boarded [[Prometheon Station]] (Ep 31), Strake watched them from a glassed-in control room as they fled a horde of Unhallowed across a catwalk, keying a nearby radio to needle them: "the Scapegoaters... welcome to Prometheon Station. I'm surprised to see that you've made it this far," followed by "I think you're arriving very late, actually. Almost too late, but it's almost time. Let's just say you're in for one hell of a ride." He let them keep running rather than intervening directly.
+
 ---
-*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28*
+*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28, Ep 31*

@@ -29,6 +29,7 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 ## Cults
 
 - [[Void Cultists]]: seek "void ascension," encountered at Scrapjacks and Sibylen
+- [[The Listeners]]: masked group claiming a shared connection to the void, encountered at Prometheon Station
 
 ## The Crew
 
@@ -41,4 +42,4 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 - [[Viktor Strake]], acting for Virodyne, has pursued the crew of [[The Scapegoat]] since early in their travels
 
 ---
-*Appears in: Ep 1, 2, 4, 7, 8, 17, 21*
+*Appears in: Ep 1, 2, 4, 7, 8, 17, 21, 31*

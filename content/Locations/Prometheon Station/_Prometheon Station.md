@@ -11,5 +11,11 @@ The station's deeper significance, and how Robert knew its name, went unexplaine
 
 As of the crew's escape from Causeway 3, Prometheon Station remains unreached: a destination now confirmed, but not yet explored.
 
+The crew finally arrived after an eighteen-day transit (Ep 31), dropping out to see the gyroscope up close for the first time: three of its five rings still turning, two locked dead, void energy sparking and raging where a moving ring passes a frozen one. Below it sits the station itself, with [[The Acceptable Loss]] docked against its flank and a dozen Virodyne warships hanging dead in formation further out. The station let the Scapegoat dock without requesting a single code, and the outer ring corridor beyond the airlock was eerily empty of people despite clear signs of recent activity: running environmentals, an unlocked terminal, a still-warm cup of coffee, motion-sensor lights.
+
+A shipboard map obtained through a public data port showed two data centers, a laboratory wing, and several sections marked only "restricted." Exploring toward the security office, the crew fought off a pair of automated combat drones and picked up a mass-transit tram system to save time. They also picked up a tail: a masked group calling themselves [[The Listeners|the Listeners]], and behind them a horde of [[Unhallowed Stages|Unhallowed]] pouring out from a barricaded section of the station. Fleeing the horde, the crew crossed a catwalk over an open-air laboratory and spotted [[Viktor Strake]] watching them from a glassed-in control room, who taunted them over the local radio before letting them keep running.
+
+The chase ended at a sealed lab holding [[Dr. Elara Voss|Voss]], wired to a pedestal, guarded by two researchers who tried to warn the crew before dying to a burst of noxious gas released into their own room. A pitched fight followed in the cramped space against drones, Listeners, and the encroaching Unhallowed horde, leaving [[Felix Champlin|Felix]] at 0 HP before a Lazarus patch from [[Thorne]] saved him. As the horde finally broke through the door, the scene reset without warning: the crew found themselves back on the Scapegoat's bridge, 45 minutes out from the station, with full memory of everything that had just happened. Prometheon Station appears to be caught in, or generating, a time loop.
+
 ---
-*Appears in: Ep 18, Ep 28, Ep 29*
+*Appears in: Ep 18, Ep 28, Ep 29, Ep 31*

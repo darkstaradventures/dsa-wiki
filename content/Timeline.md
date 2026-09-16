@@ -30,4 +30,8 @@ With coordinates Voss had hidden inside one of Strake's own transmissions, the c
 
 The pursuit nearly costs them the ship itself: pushing the engines to escape burns them out entirely, leaving the Scapegoat dead in space until [[Haleyy]] finally lands a finishing shot on the pursuing patrol boat. With the threat gone, the crew closes the book on Causeway 3 for good and settles in for the long haul to Prometheon Station.
 
-That's where things stand as of Episode 30: a battered but intact crew, a confirmed destination, and a long journey ahead. Catch up episode by episode on the [[Episode Guide]].
+## Prometheon Station: the time loop begins
+
+After an eighteen-day transit, the crew finally reaches [[Prometheon Station]] and finds it eerily deserted, letting them walk in without a single code or challenge. Automated drones and a masked group calling themselves the Listeners drive them through the station's laboratory wing alongside a horde of [[Unhallowed Stages|Unhallowed]], with [[Viktor Strake]] taunting them from a control room along the way. They track [[Dr. Elara Voss|Voss]] to a sealed lab, wired to a pedestal, but the two researchers guarding her are gassed to death before the crew can force the door open. A chaotic firefight in the cramped room nearly kills [[Felix Champlin|Felix]], and just as the horde finally breaks through, the scene resets completely: the crew wakes up back on the bridge, 45 minutes out from the station, remembering everything that just happened. They're trapped in a time loop, and their next trip into Prometheon Station will be with their eyes fully open.
+
+That's where things stand as of Episode 31: a crew that knows exactly what's waiting for them inside Prometheon Station, and no idea yet how to break the loop. Catch up episode by episode on the [[Episode Guide]].

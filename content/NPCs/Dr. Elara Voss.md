@@ -19,5 +19,7 @@ Voss's orb interfaces directly with electronics; on first contact it sank into t
 
 Voss was taken by [[Viktor Strake]] during the auction at [[_The Spigot|the Spigot]] (Ep 21). Before being taken, she managed to encode a secret heading into Strake's own communications, which Felix later decoded (Ep 22). By Ep 28, transit logs recovered from Causeway 3 confirmed the ship *Acceptable Loss* had delivered her to [[Prometheon Technologies|Prometheon Station]].
 
+The crew finally laid eyes on her again on [[Prometheon Station]] (Ep 31), spotted through a reinforced porthole wired into a pedestal at the center of a sealed lab, guarded by two researchers. Before the crew could force their way in, the researchers were killed by a burst of gas released into the room, and the crew never reached Voss before the scene reset in a time loop, leaving her status and condition unconfirmed.
+
 ---
-*Appears in: Ep 1, 3-8, 21, 22, 28*
+*Appears in: Ep 1, 3-8, 21, 22, 28, 31*
