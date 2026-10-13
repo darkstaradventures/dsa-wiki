@@ -23,5 +23,7 @@ The crew finally laid eyes on her again on [[Prometheon Station]] (Ep 31), spott
 
 The crew finally made contact with her in Episode 32, trapped along with her in the recurring loop on the station. She's only conscious for a short window near the end of each loop; [[Thorne]] managed to reach her through [[Victor Saren|Saren]]'s own terminal for a brief exchange before the connection cut out, during which she warned that she couldn't be safely disconnected, that others had tried and failed, and that she could hear "the voices" of whatever the station's gyroscope was reaching toward but couldn't answer them, being only "one ear to listen." [[Felix Champlin|Felix]] disconnected her from the rig anyway, against her own warning and over [[Robert Ross|Robert]]'s drawn gun, in the same moment the loop reset again.
 
+On the station's final loop (Ep 33), Felix completed the transfer for good, swapping her orb for a second one the crew had been carrying, and freed her from the rig entirely. For the first time since her death at Mistretta 4, Voss spoke to the crew in person rather than through a terminal or a ship's comm: "Felix, you came for me." She returned to the crew as the loop ended and Season 1 closed out, with Thorne noting in his closing log that she'd been quieter since.
+
 ---
-*Appears in: Ep 1, 3-8, 21, 22, 28, 31, 32*
+*Appears in: Ep 1, 3-8, 21, 22, 28, 31, 32, 33*

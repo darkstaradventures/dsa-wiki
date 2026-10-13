@@ -11,5 +11,7 @@ He introduced himself by name for the first time when the crew came face to face
 
 He carried body armor, a cloak, a fork-shard pendant, and a pair of etched metal spheres, similar to a device seen used on [[_Sibylen|Sibylen]] to detect people touched by the void, which the crew took and put to their own use afterward.
 
+On the final loop (Ep 33), with the station tearing itself apart, Sabien found the crew again unarmed and begged to team up, claiming the Listeners had lost all control of the Unhallowed to the gyroscope itself. [[Haleyy]] and [[Thorne]] took him along, disarmed and watched closely, and he fed them details about the station's alien "fork" technology along the way. When the horde broke through during the final push to free [[Dr. Elara Voss|Voss]], Sabien reached for [[Robert Ross|Robert]]'s help, and Robert shot him rather than risk it, ending the question of whether he could be trusted for good. This time there was no reset to undo it.
+
 ---
-*Appears in: Ep 32*
+*Appears in: Ep 32, Ep 33*

@@ -11,5 +11,7 @@ The vault held evidence of [[Project Red Wing|Operation Red Wing]], an Omnitek p
 
 Saren's own office turned up aboard [[Prometheon Technologies|Prometheon Station]] in Episode 32, immaculate and unused, worked by [[Felix Champlin|Felix]] and the crew while trapped in a time loop there. A framed photograph on the desk showed Saren shaking hands with a diplomat, an older man clearly recognizable as the same face the crew knows as [[Viktor Strake]], just about forty years younger. Chat logs recovered from the terminal showed Saren communicating remotely with a virtual intelligence designated V.Mistretta-4 over several weeks, authorizing a station activation against her explicit warning that a single "ear" wasn't strong enough to safely answer whatever the station's gyroscope was reaching toward. The final logged message, timestamped "day 23, 0347," reads only "begin," with no entries after it.
 
+Saren himself never appeared on the station. [[Thorne]] pressed [[Viktor Strake|Strake]] directly on the resemblance during the station's final loop (Ep 33), but Strake deflected every time, claiming only to be "a clone of myself" with no connection to Saren. Strake died in that same confrontation, taking whatever he actually knew about Saren with him.
+
 ---
-*Appears in: Ep 9, Ep 32*
+*Appears in: Ep 9, Ep 32, Ep 33*

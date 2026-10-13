@@ -16,6 +16,7 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 - [[Laicar Research]]: xenoarchaeology, based on [[_Sibylen|Sibylen]]
 - Blackout Press: underground journalism, sector-wide
 - [[Auctioneers Guild]]: neutral asset auctions, based on Sibylen
+- [[Novacrypt]]: newly arrived, claimed [[Prometheon Station]] and its system at the end of Season 1
 
 ## Military / Political
 
@@ -29,7 +30,7 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 ## Cults
 
 - [[Void Cultists]]: seek "void ascension," encountered at Scrapjacks and Sibylen
-- [[The Listeners]]: gas-masked Void Cultist faction running Prometheon Station under Sabien
+- [[The Listeners]]: gas-masked Void Cultist faction that ran Prometheon Station under Sabien until the time loop's end (Ep 33)
 
 ## The Crew
 
@@ -39,7 +40,8 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 
 - [[Virodyne Labs]] secretly controls [[Prometheon Technologies]] (and by extension [[Nexus Trading]]) and [[Omnitek Holdings]]
 - [[Drift Rats]] and [[Neon Fangs]] are rivals for territory on Camiri 4
-- [[Viktor Strake]], acting for Virodyne, has pursued the crew of [[The Scapegoat]] since early in their travels
+- [[Viktor Strake]], acting for Virodyne, pursued the crew of [[The Scapegoat]] since early in their travels, until his death at the end of Season 1 (Ep 33)
+- [[Novacrypt]] has claimed [[Prometheon Station]] out from under [[Prometheon Technologies]] and [[Virodyne Labs]]
 
 ---
-*Appears in: Ep 1, 2, 4, 7, 8, 17, 21, 31*
+*Appears in: Ep 1, 2, 4, 7, 8, 17, 21, 31, Ep 33*

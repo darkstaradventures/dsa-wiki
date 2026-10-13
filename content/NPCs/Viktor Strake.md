@@ -27,5 +27,7 @@ When the crew boarded [[Prometheon Station]] (Ep 31), Strake watched them from a
 
 Still trapped in the loop in Episode 32, Strake worked his own angle rather than [[The Listeners|the Listeners]]'. He left [[Thorne]] a handwritten note proposing they work together since their goals didn't have to conflict, and later killed five Listeners, including their leader [[Sabien]], to clear the crew's path to the station's admin wing, leaving only a note reading "you're welcome" on the bodies. In that same office, the crew found a framed photograph of [[Victor Saren]] that showed him with Strake's exact face, roughly forty years older, a resemblance too close to be coincidence.
 
+On the station's final, unraveling loop (Ep 33), Strake was waiting unarmed at the admin office door when Thorne and [[Dr. Iso|Iso]] arrived, insisting he was stranded, harmless, and only wanted to survive alongside them. He let Thorne in and offered to help at the terminal, but the two men came to blows over control of it as a gas alarm tripped. When the office wall tore open into vacuum mid-struggle, Strake gave Thorne one last chance to stand down; both men fired at once. Strake's shot put a laser clean through Thorne, but Thorne's shot landed first, blowing off Strake's mag boots and sending him tumbling out into the gyroscope's reach, vaporized by its void lightning. Unlike every previous encounter, no duplicate or clone turned up afterward. Whatever his connection to [[Victor Saren]] actually was, it died with him unanswered.
+
 ---
-*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28, Ep 31, Ep 32*
+*Appears in: Ep 7, Ep 8, Ep 18, Ep 20, Ep 21, Ep 28, Ep 31, Ep 32, Ep 33*

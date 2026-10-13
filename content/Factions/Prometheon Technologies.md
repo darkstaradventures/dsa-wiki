@@ -11,5 +11,7 @@ Prometheon Technologies is a subsidiary of [[Virodyne Labs]]. According to [[Dr.
 
 Prometheon is a subsidiary of [[Virodyne Labs]]. [[Dr. Elara Voss]] built and deployed a virus intended to disable Prometheon's environmental systems, erase its data, and destroy its reactor, in revenge for the experiments Prometheon ran on her home world.
 
+When [[Prometheon Station]]'s gyroscope went critical at the end of the time loop (Ep 33), Prometheon's installation was left abandoned, and [[Novacrypt]] claimed the station and the system outright. Virodyne ships that arrived afterward to check on the asset retreated without a fight rather than challenge the Novacrypt fleet already in place.
+
 ---
-*Appears in: Ep 8, 18*
+*Appears in: Ep 8, 18, Ep 33*
