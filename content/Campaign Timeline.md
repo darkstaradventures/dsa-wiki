@@ -13,7 +13,7 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **2385:** First human settlements established. Spike routes and communication hubs connect the colonies.
 
-**2435:** The War for [[Generator-01|The Socket]]. Governments wage war over control of the Generator-01 system's black hole and its energy potential. 40% of all human life is lost. All inter-governmental routes are destroyed. Systems go dark for two centuries. Small skirmishes are derisively called "electroclashes."
+**2435:** The War for [[Generator-01|The Socket]]. Governments wage war over control of the black hole Generator-01 and its energy potential. 40% of all human life is lost. All inter-governmental routes are destroyed. Systems go dark for two centuries. Small skirmishes are derisively called "electroclashes."
 
 **2535:** Alien artifacts are discovered on [[_Sibylen|Sibylen]]. The discovery is kept secret by government officials. The government collapses shortly after.
 

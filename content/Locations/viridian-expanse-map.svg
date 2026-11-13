@@ -10,7 +10,7 @@
     <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
   </filter>
 </defs>
-<text x="488" y="40" text-anchor="middle" font-size="28" fill="#8a5ad4" font-family="Segoe UI,sans-serif" font-weight="600" letter-spacing="0.15em">THE VIRIDIAN EXPANSE</text>
+<text x="488" y="40" text-anchor="middle" font-size="28" fill="#4fc3a1" font-family="Segoe UI,sans-serif" font-weight="600" letter-spacing="0.15em">THE VIRIDIAN EXPANSE</text>
 <text x="488" y="65" text-anchor="middle" font-size="14" fill="#4a6a8a" font-family="Segoe UI,sans-serif" letter-spacing="0.1em">SECTOR MAP</text>
 <line x1="388" y1="78" x2="588" y2="78" stroke="#1e3a5f" stroke-width="1"/>
 <polygon points="138.0,150.0 109.0,200.2 51.0,200.2 22.0,150.0 51.0,99.8 109.0,99.8" fill="none" stroke="#3a4f6a" stroke-width="0.8"/>
@@ -173,108 +173,136 @@
 <text x="667.0" y="976.1" text-anchor="start" font-size="9" fill="#3a4f6a" font-family="Segoe UI,sans-serif">8,9</text>
 <polygon points="747.0,1104.4 718.0,1154.6 660.0,1154.6 631.0,1104.4 660.0,1054.1 718.0,1054.1" fill="none" stroke="#3a4f6a" stroke-width="0.8"/>
 <text x="667.0" y="1076.5" text-anchor="start" font-size="9" fill="#3a4f6a" font-family="Segoe UI,sans-serif">8,10</text>
-<line x1="515.0" y1="702.5" x2="428.0" y2="752.8" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="428.0" y1="752.8" x2="341.0" y2="702.5" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="341.0" y1="702.5" x2="254.0" y2="652.3" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="428.0" y1="551.8" x2="515.0" y2="702.5" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="428.0" y1="551.8" x2="254.0" y2="652.3" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="428.0" y1="551.8" x2="515.0" y2="501.6" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="428.0" y1="551.8" x2="341.0" y2="501.6" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<line x1="341.0" y1="501.6" x2="254.0" y2="350.9" stroke="#d15d3a" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
-<line x1="254.0" y1="350.9" x2="80.0" y2="250.5" stroke="#d15d3a" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
-<line x1="254.0" y1="350.9" x2="341.0" y2="200.2" stroke="#d15d3a" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
-<line x1="515.0" y1="702.5" x2="428.0" y2="752.8" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="515.0" y1="702.5" x2="428.0" y2="752.8" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="428.0" y1="752.8" x2="341.0" y2="702.5" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="428.0" y1="752.8" x2="341.0" y2="702.5" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="341.0" y1="702.5" x2="254.0" y2="652.3" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="341.0" y1="702.5" x2="254.0" y2="652.3" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="254.0" y1="652.3" x2="428.0" y2="551.8" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="254.0" y1="652.3" x2="428.0" y2="551.8" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="428.0" y1="551.8" x2="341.0" y2="501.6" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="428.0" y1="551.8" x2="341.0" y2="501.6" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="341.0" y1="501.6" x2="254.0" y2="350.9" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="341.0" y1="501.6" x2="254.0" y2="350.9" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<line x1="254.0" y1="350.9" x2="80.0" y2="250.5" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="254.0" y1="350.9" x2="80.0" y2="250.5" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<circle cx="254.0" cy="652.3" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="254.0" cy="652.3" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="254.0" cy="652.3" r="2" fill="#ffffff"/>
-<text x="254.0" y="676.3" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Shepard</text>
-<text x="254.0" y="689.3" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Sibylen</text>
-<circle cx="341.0" cy="501.6" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="341.0" cy="501.6" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="341.0" cy="501.6" r="2" fill="#ffffff"/>
-<text x="341.0" y="525.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">LR-7</text>
-<text x="341.0" y="538.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">New Lucerne</text>
-<circle cx="515.0" cy="501.6" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="515.0" cy="501.6" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="515.0" cy="501.6" r="2" fill="#ffffff"/>
-<text x="515.0" y="525.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Zephyrus</text>
-<text x="515.0" y="538.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Zephyrus Three</text>
-<circle cx="428.0" cy="551.8" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="428.0" cy="551.8" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="428.0" cy="551.8" r="2" fill="#ffffff"/>
-<text x="428.0" y="575.8" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Lebima</text>
-<text x="428.0" y="588.8" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Polyphn</text>
-<circle cx="515.0" cy="702.5" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="515.0" cy="702.5" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="515.0" cy="702.5" r="2" fill="#ffffff"/>
-<text x="515.0" y="726.5" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Schroeter</text>
-<text x="515.0" y="739.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Camiri 4</text>
-<circle cx="428.0" cy="752.8" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="428.0" cy="752.8" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="428.0" cy="752.8" r="2" fill="#ffffff"/>
-<text x="428.0" y="776.8" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Revarmi Trita</text>
-<text x="428.0" y="789.8" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Wafisa</text>
-<circle cx="689.0" cy="501.6" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="689.0" cy="501.6" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="689.0" cy="501.6" r="2" fill="#ffffff"/>
-<text x="689.0" y="525.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Thraxis</text>
-<text x="689.0" y="538.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Ventos</text>
-<text x="689.0" y="549.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Vigrid</text>
-<text x="689.0" y="560.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Verdara</text>
-<circle cx="341.0" cy="702.5" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="341.0" cy="702.5" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="341.0" cy="702.5" r="2" fill="#ffffff"/>
-<text x="341.0" y="726.5" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Anagris</text>
-<text x="341.0" y="739.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Pare</text>
-<text x="341.0" y="750.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">Scrapjack's</text>
-<circle cx="80.0" cy="250.5" r="14" fill="#d15d3a" opacity="0.08" filter="url(#softglow)"/>
-<circle cx="80.0" cy="250.5" r="6" fill="#d15d3a" opacity="0.6" filter="url(#glow)"/>
-<circle cx="80.0" cy="250.5" r="2" fill="#ffffff" opacity="0.6"/>
-<text x="80.0" y="274.5" text-anchor="middle" font-size="11" fill="#d15d3a" font-family="Segoe UI,sans-serif" font-weight="600" opacity="0.7">Caucasus</text>
-<text x="80.0" y="287.5" text-anchor="middle" font-size="9" fill="#6a4a3a" font-family="Segoe UI,sans-serif" font-style="italic">Prometheon Station</text>
-<circle cx="80.0" cy="953.7" r="14" fill="#58a6ff" opacity="0.12" filter="url(#softglow)"/>
-<circle cx="80.0" cy="953.7" r="6" fill="#58a6ff" filter="url(#glow)"/>
-<circle cx="80.0" cy="953.7" r="2" fill="#ffffff"/>
-<text x="80.0" y="977.7" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600">Oceanus</text>
-<text x="80.0" y="990.7" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">New Australia</text>
-<text x="80.0" y="1001.7" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic">New Hawaii</text>
-<circle cx="254.0" cy="350.9" r="14" fill="#d15d3a" opacity="0.08" filter="url(#softglow)"/>
-<circle cx="254.0" cy="350.9" r="6" fill="#d15d3a" opacity="0.6" filter="url(#glow)"/>
-<circle cx="254.0" cy="350.9" r="2" fill="#ffffff" opacity="0.6"/>
-<text x="254.0" y="374.9" text-anchor="middle" font-size="11" fill="#d15d3a" font-family="Segoe UI,sans-serif" font-weight="600" opacity="0.7">Acheron</text>
-<text x="254.0" y="387.9" text-anchor="middle" font-size="9" fill="#6a4a3a" font-family="Segoe UI,sans-serif" font-style="italic">Causeway 3</text>
-<circle cx="341.0" cy="200.2" r="14" fill="#d15d3a" opacity="0.08" filter="url(#softglow)"/>
-<circle cx="341.0" cy="200.2" r="6" fill="#d15d3a" opacity="0.6" filter="url(#glow)"/>
-<circle cx="341.0" cy="200.2" r="2" fill="#ffffff" opacity="0.6"/>
-<text x="341.0" y="224.2" text-anchor="middle" font-size="11" fill="#d15d3a" font-family="Segoe UI,sans-serif" font-weight="600" opacity="0.7">Generator-01</text>
-<text x="341.0" y="237.2" text-anchor="middle" font-size="9" fill="#6a4a3a" font-family="Segoe UI,sans-serif" font-style="italic">The Socket</text>
-<rect x="765.0" y="370" width="210" height="150" rx="4" fill="#0c1021" stroke="#2a3a50" stroke-width="0.8" opacity="0.95"/>
+<line x1="515.0" y1="803.0" x2="428.0" y2="752.8" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="428.0" y1="752.8" x2="341.0" y2="702.5" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="341.0" y1="702.5" x2="254.0" y2="652.3" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="428.0" y1="551.8" x2="254.0" y2="652.3" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="428.0" y1="551.8" x2="515.0" y2="501.6" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="428.0" y1="551.8" x2="341.0" y2="501.6" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<line x1="341.0" y1="501.6" x2="254.0" y2="350.9" stroke="#a371f7" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="297.5" y="422.3" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(60.0 297.5 426.3)"><tspan fill="#a371f7">Novacrypt</tspan></text>
+<line x1="254.0" y1="350.9" x2="80.0" y2="250.5" stroke="#a371f7" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="167.0" y="296.7" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(30.0 167.0 300.7)"><tspan fill="#a371f7">Novacrypt</tspan></text>
+<line x1="515.0" y1="501.6" x2="689.0" y2="501.6" stroke="#e5534b" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="602.0" y="497.6" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(0.0 602.0 501.6)"><tspan fill="#e5534b">Virodyne</tspan></text>
+<line x1="254.0" y1="853.2" x2="80.0" y2="953.7" stroke="#a371f7" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="167.0" y="899.4" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(330.0 167.0 903.4)"><tspan fill="#a371f7">Novacrypt</tspan></text>
+<line x1="254.0" y1="853.2" x2="428.0" y2="752.8" stroke="#a371f7" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="341.0" y="799.0" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(-30.0 341.0 803.0)"><tspan fill="#a371f7">Novacrypt</tspan></text>
+<line x1="428.0" y1="652.3" x2="428.0" y2="551.8" stroke="#e5534b" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="428.0" y="598.1" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(-90.0 428.0 602.1)"><tspan fill="#e5534b">Virodyne</tspan></text>
+<line x1="428.0" y1="652.3" x2="428.0" y2="752.8" stroke="#e5534b" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="428.0" y="698.5" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(90.0 428.0 702.5)"><tspan fill="#e5534b">Virodyne</tspan></text>
+<line x1="428.0" y1="652.3" x2="341.0" y2="702.5" stroke="#e5534b" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="384.5" y="673.4" text-anchor="middle" font-size="8" font-family="Segoe UI,sans-serif" font-style="italic" letter-spacing="0.1em" transform="rotate(330.0 384.5 677.4)"><tspan fill="#e5534b">Virodyne</tspan></text>
+<circle cx="254.0" cy="652.3" r="14" fill="#9aa7b4" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="254.0" cy="652.3" r="6" fill="#9aa7b4" filter="url(#glow)"/>
+<circle cx="254.0" cy="652.3" r="2.0" fill="#ffffff"/>
+<text x="254.0" y="676.3" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Shepard</text>
+<text x="254.0" y="689.3" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Sibylen</text>
+<circle cx="341.0" cy="501.6" r="14" fill="#a371f7" opacity="0.12" filter="url(#softglow)"/>
+<path d="M 341.0,495.6 A 6,6 0 0 0 341.0,507.6 Z" fill="#a371f7" filter="url(#glow)"/>
+<path d="M 341.0,495.6 A 6,6 0 0 1 341.0,507.6 Z" fill="#e5534b" filter="url(#glow)"/>
+<circle cx="341.0" cy="501.6" r="2.0" fill="#ffffff"/>
+<text x="341.0" y="525.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">LR-7</text>
+<text x="341.0" y="538.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">New Lucerne</text>
+<text x="341.0" y="549.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Lucerne</text>
+<circle cx="515.0" cy="501.6" r="14" fill="#e5534b" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="515.0" cy="501.6" r="6" fill="#e5534b" filter="url(#glow)"/>
+<circle cx="515.0" cy="501.6" r="2.0" fill="#ffffff"/>
+<text x="515.0" y="525.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Zephyrus</text>
+<text x="515.0" y="538.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Zephyrus Three</text>
+<circle cx="428.0" cy="551.8" r="14" fill="#e5534b" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="428.0" cy="551.8" r="6" fill="#e5534b" filter="url(#glow)"/>
+<circle cx="428.0" cy="551.8" r="2.0" fill="#ffffff"/>
+<text x="441.0" y="558.8" text-anchor="start" font-size="13" fill="#c8ccd4" font-weight="600" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Lebima</text>
+<text x="441.0" y="570.8" text-anchor="start" font-size="9" fill="#6a7a8a" font-style="italic" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Polyphn</text>
+<circle cx="515.0" cy="803.0" r="14" fill="#9aa7b4" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="515.0" cy="803.0" r="6" fill="#9aa7b4" filter="url(#glow)"/>
+<circle cx="515.0" cy="803.0" r="2.0" fill="#ffffff"/>
+<text x="515.0" y="827.0" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Schroeter</text>
+<text x="515.0" y="840.0" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Camiri 4</text>
+<circle cx="428.0" cy="752.8" r="14" fill="#9aa7b4" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="428.0" cy="752.8" r="6" fill="#9aa7b4" filter="url(#glow)"/>
+<circle cx="428.0" cy="752.8" r="2.0" fill="#ffffff"/>
+<text x="441.0" y="741.8" text-anchor="start" font-size="13" fill="#c8ccd4" font-weight="600" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Revarmi Trita</text>
+<text x="441.0" y="753.8" text-anchor="start" font-size="9" fill="#6a7a8a" font-style="italic" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Wafisa</text>
+<circle cx="689.0" cy="501.6" r="14" fill="#e5534b" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="689.0" cy="501.6" r="6" fill="#e5534b" filter="url(#glow)"/>
+<circle cx="689.0" cy="501.6" r="2.0" fill="#ffffff"/>
+<circle cx="689.0" cy="501.6" r="17" fill="none" stroke="#e5534b" stroke-width="1.2" stroke-dasharray="7,3" opacity="0.9"/>
+<text x="689.0" y="529.6" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Thraxis</text>
+<text x="689.0" y="542.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Ventos</text>
+<text x="689.0" y="553.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Vigrid</text>
+<text x="689.0" y="564.6" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Verdara</text>
+<circle cx="341.0" cy="702.5" r="14" fill="#9aa7b4" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="341.0" cy="702.5" r="6" fill="#9aa7b4" filter="url(#glow)"/>
+<circle cx="341.0" cy="702.5" r="2.0" fill="#ffffff"/>
+<text x="341.0" y="726.5" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Anagris</text>
+<text x="341.0" y="739.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Pare</text>
+<text x="341.0" y="750.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Scrapjack's</text>
+<circle cx="80.0" cy="250.5" r="14" fill="#a371f7" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="80.0" cy="250.5" r="6" fill="#a371f7" filter="url(#glow)"/>
+<circle cx="80.0" cy="250.5" r="2.0" fill="#ffffff"/>
+<text x="80.0" y="274.5" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Sarasti</text>
+<text x="80.0" y="287.5" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Prometheon Station</text>
+<circle cx="80.0" cy="953.7" r="14" fill="#a371f7" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="80.0" cy="953.7" r="6" fill="#a371f7" filter="url(#glow)"/>
+<circle cx="80.0" cy="953.7" r="2.0" fill="#ffffff"/>
+<text x="80.0" y="977.7" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Oceanus</text>
+<text x="80.0" y="990.7" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">New Australia</text>
+<text x="80.0" y="1001.7" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">New Hawaii</text>
+<circle cx="254.0" cy="350.9" r="14" fill="#a371f7" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="254.0" cy="350.9" r="6" fill="#a371f7" filter="url(#glow)"/>
+<circle cx="254.0" cy="350.9" r="2.0" fill="#ffffff"/>
+<circle cx="254.0" cy="350.9" r="17" fill="none" stroke="#a371f7" stroke-width="1.2" stroke-dasharray="7,3" opacity="0.9"/>
+<text x="254.0" y="378.9" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">DL-449</text>
+<text x="254.0" y="391.9" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Causeway 3</text>
+<circle cx="341.0" cy="200.2" r="14" fill="#9aa7b4" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="341.0" cy="200.2" r="8" fill="#000000" stroke="#9aa7b4" stroke-width="1.8"/>
+<circle cx="341.0" cy="200.2" r="3.2" fill="none" stroke="#9aa7b4" stroke-width="0.8" opacity="0.5"/>
+<text x="341.0" y="224.2" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Noctra</text>
+<text x="341.0" y="237.2" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Generator-01</text>
+<text x="341.0" y="248.2" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">The Socket</text>
+<circle cx="428.0" cy="652.3" r="14" fill="#e5534b" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="428.0" cy="652.3" r="6" fill="#e5534b" filter="url(#glow)"/>
+<circle cx="428.0" cy="652.3" r="2.0" fill="#ffffff"/>
+<circle cx="428.0" cy="652.3" r="17" fill="none" stroke="#e5534b" stroke-width="1.2" stroke-dasharray="7,3" opacity="0.9"/>
+<text x="451.0" y="648.3" text-anchor="start" font-size="13" fill="#c8ccd4" font-weight="600" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Darwin</text>
+<text x="451.0" y="660.3" text-anchor="start" font-size="9" fill="#6a7a8a" font-style="italic" font-family="Segoe UI,sans-serif" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Causeway 1</text>
+<circle cx="254.0" cy="853.2" r="14" fill="#a371f7" opacity="0.12" filter="url(#softglow)"/>
+<circle cx="254.0" cy="853.2" r="6" fill="#a371f7" filter="url(#glow)"/>
+<circle cx="254.0" cy="853.2" r="2.0" fill="#ffffff"/>
+<circle cx="254.0" cy="853.2" r="17" fill="none" stroke="#a371f7" stroke-width="1.2" stroke-dasharray="7,3" opacity="0.9"/>
+<text x="254.0" y="881.2" text-anchor="middle" font-size="13" fill="#c8ccd4" font-family="Segoe UI,sans-serif" font-weight="600" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">DN-I</text>
+<text x="254.0" y="894.2" text-anchor="middle" font-size="9" fill="#6a7a8a" font-family="Segoe UI,sans-serif" font-style="italic" stroke="#0c1021" stroke-width="6" stroke-linejoin="round" paint-order="stroke">Causeway 2</text>
+<rect x="765.0" y="370" width="210" height="212" rx="4" fill="#0c1021" stroke="#2a3a50" stroke-width="0.8" opacity="0.95"/>
 <text x="870" y="388" text-anchor="middle" font-size="10" fill="#58a6ff" font-family="Segoe UI,sans-serif" font-weight="600" letter-spacing="0.1em">LEGEND</text>
-<circle cx="781.0" cy="407" r="4" fill="#58a6ff"/>
-<circle cx="781.0" cy="407" r="1.5" fill="#ffffff"/>
-<text x="793.0" y="410" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">System</text>
-<line x1="775.0" y1="425" x2="787.0" y2="425" stroke="#2a5a8a" stroke-width="2" opacity="0.6"/>
-<text x="793.0" y="428" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Public Drill Route</text>
-<line x1="775.0" y1="443" x2="787.0" y2="443" stroke="#d15d3a" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
-<text x="793.0" y="446" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Secret Drill Path</text>
-<line x1="775.0" y1="461" x2="787.0" y2="461" stroke="#d4a843" stroke-width="3" opacity="0.8"/>
-<line x1="775.0" y1="461" x2="787.0" y2="461" stroke="#2a5a8a" stroke-width="1.5" opacity="0.9"/>
-<text x="793.0" y="464" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Crew Route (Season 1)</text>
-<circle cx="781.0" cy="479" r="4" fill="#d15d3a" opacity="0.6"/>
-<circle cx="781.0" cy="479" r="1.5" fill="#ffffff" opacity="0.6"/>
-<text x="793.0" y="482" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Secret / Uncharted</text>
+<text x="775.0" y="408" font-size="7.5" fill="#6a7a8a" font-family="Segoe UI,sans-serif" letter-spacing="0.12em">SYSTEM CONTROLLED BY</text>
+<circle cx="781.0" cy="423.0" r="4.5" fill="#e5534b"/>
+<circle cx="781.0" cy="423.0" r="1.5" fill="#ffffff"/>
+<text x="793.0" y="426" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Virodyne</text>
+<circle cx="781.0" cy="441.0" r="4.5" fill="#a371f7"/>
+<circle cx="781.0" cy="441.0" r="1.5" fill="#ffffff"/>
+<text x="793.0" y="444" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Novacrypt</text>
+<circle cx="781.0" cy="459.0" r="4.5" fill="#9aa7b4"/>
+<circle cx="781.0" cy="459.0" r="1.5" fill="#ffffff"/>
+<text x="793.0" y="462" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Independent</text>
+<path d="M 781.0,472.5 A 4.5,4.5 0 0 0 781.0,481.5 Z" fill="#a371f7"/>
+<path d="M 781.0,472.5 A 4.5,4.5 0 0 1 781.0,481.5 Z" fill="#e5534b"/>
+<circle cx="781.0" cy="477.0" r="1.5" fill="#ffffff"/>
+<text x="793.0" y="480" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Contested</text>
+<text x="775.0" y="506" font-size="7.5" fill="#6a7a8a" font-family="Segoe UI,sans-serif" letter-spacing="0.12em">SYMBOLS</text>
+<circle cx="781.0" cy="521.0" r="5" fill="#000000" stroke="#9aa7b4" stroke-width="1.1"/>
+<circle cx="781.0" cy="521.0" r="2.0" fill="none" stroke="#9aa7b4" stroke-width="0.5" opacity="0.5"/>
+<text x="793.0" y="524" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Black Hole</text>
+<circle cx="781.0" cy="539.0" r="2.5" fill="#9aa7b4"/>
+<circle cx="781.0" cy="539.0" r="0.8" fill="#ffffff"/>
+<circle cx="781.0" cy="539" r="7" fill="none" stroke="#9aa7b4" stroke-width="1.2" stroke-dasharray="5,2.3" opacity="0.9"/>
+<text x="793.0" y="542" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Blockade</text>
+<line x1="775.0" y1="557" x2="787.0" y2="557" stroke="#ece8dc" stroke-width="2" opacity="0.75"/>
+<text x="793.0" y="560" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Public Drill Route</text>
+<line x1="773.0" y1="575" x2="789.0" y2="575" stroke="#9aa7b4" stroke-width="2" stroke-dasharray="6,4" opacity="0.7"/>
+<text x="793.0" y="578" font-size="9" fill="#c8ccd4" font-family="Segoe UI,sans-serif">Private Drill Route (owner named)</text>
 <text x="384" y="1217" text-anchor="middle" font-size="9" fill="#3a4a5a" font-family="Segoe UI,sans-serif">www.darkstaradventures.com</text>
 </svg>
