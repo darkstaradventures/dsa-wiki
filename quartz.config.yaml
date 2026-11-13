@@ -169,10 +169,10 @@ plugins:
     options:
       localGraph:
         depth: 1
-        scale: 0.8
-        fontSize: 0.85
-        linkDistance: 50
-        repelForce: 1
+        scale: 1
+        fontSize: 0.7
+        linkDistance: 70
+        repelForce: 2
         opacityScale: 5
         focusOnHover: true
       globalGraph:
