@@ -48,7 +48,8 @@ $tabletGrid: (
 );
 $desktopGrid: (
   templateRows: "auto auto auto",
-  templateColumns: "#{$sidePanelWidth} auto #{$sidePanelWidth}",
+  // Right column is wider than the left so the graph view has room for large labels.
+  templateColumns: "280px auto 440px",
   rowGap: "5px",
   columnGap: "5px",
   templateAreas:

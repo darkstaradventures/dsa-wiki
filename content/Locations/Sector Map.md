@@ -5,9 +5,9 @@ aliases: [Sector Overview, Sector Index]
 revealed_through: Episode 29
 ---
 
-<a href="viridian-expanse-map.svg" target="_blank" rel="noopener" data-router-ignore><img src="viridian-expanse-map.svg" alt="The Viridian Expanse sector map" target="_blank"></a>
+<div class="dsa-map-viewer"><img src="viridian-expanse-map.svg" alt="The Viridian Expanse sector map"></div>
 
-*Click the map to open it full size in a new tab. It is a vector image, so you can zoom in as far as you like.*
+*Scroll or pinch to zoom, drag to pan, double-click to zoom in. The buttons reset the view or go full screen. [Open the map on its own](viridian-expanse-map.svg).*
 
 Known worlds and stations include the Schroeter system's [[Camiri 4]] (gang territory, and the campaign's starting location); the Revarmi Trita system's [[Wafisa]] (a dead-feeling megacity rich in alien artifacts), [[Blackharbor]] (a coastal settlement ruled by the [[Guardians of the Great Work]]), [[Port Ascension]] (an empty spaceport), and [[Mistretta 4]] ([[Dr. Elara Voss|Voss]]'s Omnitek base); the Lebima system's [[Polyphn]] (a night world and Omnitek headquarters); the Shepard system's [[Sibylen]] (site of major alien ruins) and its port city [[The Spigot]]; the Anagris system's [[Scrapjacks]] (a fuel depot and site of a cultist attack) and the nearby world of [[Pare]]; and the Thraxis system's [[Ventos]] (jungle world and site of the Red Rice Wars).
 

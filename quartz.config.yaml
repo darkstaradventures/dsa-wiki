@@ -163,22 +163,26 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
-    # Defaults were too small to read. Notes on this plugin: `scale` only divides label size (lower = bigger
-    # labels), there is no initial-zoom setting, and labels stay hidden until the reader hovers or zooms;
-    # opacityScale 5 makes them fully visible on the first zoom. Two hops (depth 2) is an unreadable cloud.
+    # Defaults were too small to read. Notes on this plugin: label size is fontSize*15 px divided by
+    # `scale`, there is no initial-zoom setting, and labels stay hidden until the reader zooms. Our
+    # script (quartz/components/scripts/dsa-enhancements.inline.ts) nudges each graph once on load to
+    # show them; opacityScale 5 makes them fully opaque after that nudge. Two hops (depth 2) is an
+    # unreadable cloud.
     options:
       localGraph:
         depth: 1
         scale: 1
-        fontSize: 0.7
-        linkDistance: 70
-        repelForce: 2
+        fontSize: 1.8 # plugin default is 0.6, so this is 3x
+        linkDistance: 100
+        repelForce: 5
+        centerForce: 0.4
         opacityScale: 5
+        showTags: false # the "#location" tag node on every page is clutter
         focusOnHover: true
       globalGraph:
         scale: 0.9
         fontSize: 0.75
-        opacityScale: 3
+        opacityScale: 5
         focusOnHover: true
     layout:
       position: right
