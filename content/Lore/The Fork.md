@@ -1,7 +1,7 @@
 ---
 title: The Fork
 tags: [lore]
-aliases: [Fork, the Fork, Paracausal Bifurcation Array, PBA, Ontic Fork, the alien fork]
+aliases: [Fork, Paracausal Bifurcation Array, PBA, Ontic Fork, the alien fork]
 revealed_through: Episode 33
 ---
 

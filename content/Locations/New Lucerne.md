@@ -1,7 +1,7 @@
 ---
 title: New Lucerne
 tags: [location]
-aliases: [New Lucerne, Lucerne, LR-7, LR-7 system]
+aliases: [Lucerne, LR-7, LR-7 system]
 revealed_through: Episode 28
 ---
 

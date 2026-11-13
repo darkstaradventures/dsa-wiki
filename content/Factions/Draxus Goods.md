@@ -1,7 +1,7 @@
 ---
 title: Draxus Goods
 tags: [faction]
-aliases: [Draxus Goods]
+aliases: []
 revealed_through: Episode 24
 ---
 

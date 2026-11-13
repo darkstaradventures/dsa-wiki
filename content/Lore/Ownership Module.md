@@ -1,7 +1,7 @@
 ---
 title: Ownership Module
 tags: [lore]
-aliases: [ownership module, ownership modules]
+aliases: [ownership modules]
 revealed_through: Episode 28
 ---
 

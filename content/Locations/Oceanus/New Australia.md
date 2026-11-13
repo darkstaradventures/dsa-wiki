@@ -1,7 +1,7 @@
 ---
 title: New Australia
 tags: [location]
-aliases: [Aussie 1, Aussie One, New Australia]
+aliases: [Aussie 1, Aussie One]
 revealed_through: Episode 21
 ---
 

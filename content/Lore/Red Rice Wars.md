@@ -1,7 +1,7 @@
 ---
 title: Red Rice Wars
 tags: [lore]
-aliases: [Red Rice War, Red Rice Wars]
+aliases: [Red Rice War]
 revealed_through: Episode 27
 ---
 

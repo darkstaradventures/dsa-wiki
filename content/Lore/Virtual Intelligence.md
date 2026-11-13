@@ -1,7 +1,7 @@
 ---
 title: Virtual Intelligence
 tags: [lore]
-aliases: [VI, VIs, virtual intelligence, Virtual Intelligences, virtual intelligences]
+aliases: [VI, VIs, Virtual Intelligences, virtual intelligences]
 revealed_through: Episode 33
 ---
 

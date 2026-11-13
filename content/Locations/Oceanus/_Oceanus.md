@@ -1,7 +1,7 @@
 ---
 title: Oceanus
 tags: [location]
-aliases: [Oceanus, Oceanus system]
+aliases: [Oceanus system]
 revealed_through: Episode 23
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Generator-01
 tags: [location]
-aliases: [The Socket, Socket, Generator-01, Generator 01, Generator One]
+aliases: [The Socket, Socket, Generator One]
 revealed_through: Episode 29
 ---
 

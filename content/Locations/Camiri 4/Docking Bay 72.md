@@ -1,7 +1,7 @@
 ---
 title: Docking Bay 72
 tags: [location]
-aliases: [Docking Bay 72]
+aliases: []
 revealed_through: Episode 8
 ---
 
