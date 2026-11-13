@@ -13,13 +13,13 @@ Guards are polite and keep order, functioning less like criminals and more like 
 
 | Name | Role | Status |
 |------|------|--------|
-| Roger Neronta | Guard, owns Roger's Billiards | Alive |
-| Roger's wife | Runs the bar alongside Axel (name not given on-air) | Alive |
+| [[Roger Neronta]] | Guard, owns [[Roger's Billiards]] | Alive |
+| Roger's wife | Runs the bar alongside [[Axel Neronta\|Axel]] (name not given on-air) | Alive |
 | Axel Neronta | Roger's eldest, runs the bar/pool hall | Alive |
 
 ## Locations
 
-Docking Bays 22-43, [[_Camiri 4|Camiri 4]]. Roger's Billiards is a pool hall with a modified old-world jukebox playing local artists' music.
+[[_Neon Fangs Territory|Docking Bays 22-43]], [[_Camiri 4|Camiri 4]]. Roger's Billiards is a pool hall with a modified old-world jukebox playing local artists' music.
 
 ---
 *Appears in: Ep 1*

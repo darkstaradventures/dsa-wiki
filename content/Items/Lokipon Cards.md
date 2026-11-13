@@ -5,7 +5,7 @@ aliases: [Lokipon]
 revealed_through: Episode 6
 ---
 
-Lokipon is an in-universe collectible card game, similar in spirit to Magic: The Gathering or Pokémon. Decks and cards turn up scattered through the campaign, first found at the Glendale Hotel and 17 Millbrook Lane on [[_Wafisa|Wafisa]], including pre-built decks discovered in a child's bedroom.
+Lokipon is an in-universe collectible card game, similar in spirit to Magic: The Gathering or Pokémon. Decks and cards turn up scattered through the campaign, first found at the [[Glendale Hotel]] and [[17 Millbrook Lane]] on [[_Wafisa|Wafisa]], including pre-built decks discovered in a child's bedroom.
 
 The game has become a running bit of levity for the crew, who collect the cards obsessively in-game. [[Thorne]] and [[Robert Ross]] are its most enthusiastic players and collectors, while [[Haleyy]] keeps a deck in her bunk mostly to practice, despite not being very good at it.
 

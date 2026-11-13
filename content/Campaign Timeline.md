@@ -26,7 +26,7 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **2643:** Froggy's father is killed in a Guardian skirmish. His mother takes him to [[_Blackharbor|Blackharbor]], where he meets Vera, whose family is already there.
 
-**2646:** [[Thorne]] is born on [[Zephyrus Three]]. [[Dr. Elara Voss]] is born on New Australia (Aussie 1), in the Oceanus system.
+**2646:** [[Thorne]] is born on [[Zephyrus Three]]. [[Dr. Elara Voss]] is born on [[New Australia]] (Aussie 1), in the [[_Oceanus|Oceanus system]].
 
 **2649:** [[Felix Champlin]] is born on [[New Lucerne]], in the LR-7 system.
 
@@ -39,7 +39,7 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 ## The Sector Shifts
 **2660:** The Guardians shut down the Exo-Net on Wafisa. Contact between Froggy and Vera is lost for 25 years.
 
-**2663:** Froggy's mother dies in Blackharbor. He flees into the dead megacity. Virodyne Labs purchases New Australia; Voss (17) is identified and groomed by the company.
+**2663:** Froggy's mother dies in Blackharbor. He flees into the dead megacity. [[Virodyne Labs]] purchases New Australia; Voss (17) is identified and groomed by the company.
 
 **2664:** Voss (18) is sent to university in Reisen Prefecture on [[_Polyphn|Polyphn]].
 
@@ -50,19 +50,19 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 **2670:** Froggy (32) finds [[WK9078 Radio Station]] and settles in, becoming "The Voice of the Wastes." Voss (24) graduates university and becomes a research assistant under [[Omnitek Holdings]].
 
 ## Paths Converge
-**2675:** Felix (26) is discharged after a 10-year military contract and starts freelancing as a hacker. [[Haleyy|Haley]] (17) enlists in the Omnitek military. [[Thorne]] (29) is sentenced to 12 years in a [[Nexus Trading]]-run prison after [[William Sallerist]] frames him; Sallerist takes control of Draxus Goods.
+**2675:** Felix (26) is discharged after a 10-year military contract and starts freelancing as a hacker. [[Haleyy|Haley]] (17) enlists in the Omnitek military. [[Thorne]] (29) is sentenced to 12 years in a [[Nexus Trading]]-run prison after [[William Sallerist]] frames him; Sallerist takes control of [[Draxus Goods]].
 
 **2677:** Haley (19) graduates the Omnitek academy and is stationed on Vigrid.
 
 **2678:** Voss (32) is stationed at [[Mistretta 4]] on Wafisa as lead researcher. The alien gold rush begins on Sibylen, with further discoveries following on Polyphn, Wafisa, and elsewhere.
 
-**2679:** Clone RR7 is created, grown to the physical appearance of a 32-year-old, with AI-generated memories forming the identity "[[Robert Ross]]." The clone troop is delivered to Vigrid for training; Haley is assigned as squad leader with Robert as her second-in-command. The squad is deployed to Verdara. The Red Rice Wars begin on [[_Ventos|Ventos]]. Felix (30) and his brother [[Petey Champlin|Petey]] execute the [[The Orbital Data Vault|Orbital Data Vault]] heist above Polyphn; Petey is killed and his consciousness trapped in Omnitek's servers, and Felix burns his old identity and joins Omnitek under a new one.
+**2679:** Clone RR7 is created, grown to the physical appearance of a 32-year-old, with AI-generated memories forming the identity "[[Robert Ross]]." The clone troop is delivered to Vigrid for training; Haley is assigned as squad leader with Robert as her second-in-command. The squad is deployed to Verdara. The [[Red Rice Wars]] begin on [[_Ventos|Ventos]]. Felix (30) and his brother [[Petey Champlin|Petey]] execute the [[The Orbital Data Vault|Orbital Data Vault]] heist above Polyphn; Petey is killed and his consciousness trapped in Omnitek's servers, and Felix burns his old identity and joins Omnitek under a new one.
 
 **2682:** Haley (24) is rotated from Verdara to the harder front of the Red Rice Wars on Ventos.
 
-**2683:** Thorne (37) begins Echo 3 trial missions for Omnitek at year 8 of his sentence, meeting Felix (34, under his new identity). Dr. Voss dies at Mistretta 4: her consciousness is copied into an alien orb, making her the sector's first Virtual Intelligence, and she begins fabricating reports to Omnitek to keep up the appearance that the station is still running.
+**2683:** Thorne (37) begins Echo 3 trial missions for Omnitek at year 8 of his sentence, meeting Felix (34, under his new identity). Dr. Voss dies at Mistretta 4: her consciousness is copied into an alien orb, making her the sector's first [[Virtual Intelligence]], and she begins fabricating reports to Omnitek to keep up the appearance that the station is still running.
 
-**Late 2684:** Haley (26) defects to help the Ventos rebels and is captured. Strike Force 6 (Robert, Jackal, Envy, Headcase) is sent to extract her; inside alien-touched caves, a fork strikes her with energy, her eyes turn green, and she is killed during the escape, reviving in the morgue with no memory and unconsciously constructing the "Haleyy" identity. The Red Rice Wars end with the rebellion crushed. The clone program is scrapped.
+**Late 2684:** Haley (26) defects to help the Ventos rebels and is captured. [[Strike Force 6]] (Robert, Jackal, Envy, Headcase) is sent to extract her; inside alien-touched caves, a fork strikes her with energy, her eyes turn green, and she is killed during the escape, reviving in the morgue with no memory and unconsciously constructing the "Haleyy" identity. The Red Rice Wars end with the rebellion crushed. The clone program is scrapped.
 
 ## 2685: The Campaign
 
@@ -78,7 +78,7 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **Episode 13 ([[Episode Guide#Episode 13: Nexus of Betrayal: Thorne's Story|Thorne's Story]]):** Flashback to Hakumei Prefecture on Polyphn: the gravcar chase, the Relay Tower assault, and the reveal that Thorne's own mother framed him.
 
-**Episodes 14-18 ([[Episode Guide#Episode 14: The Potential Profit Is...|Sibylen]]):** The crew arrives at Sibylen and meets [[Vera Corbin]] at [[Exosite 34b]]. They explore the alien quarantine building, activate the Fork, and glimpse Prometheon Station and alien entities through a window across space.
+**Episodes 14-18 ([[Episode Guide#Episode 14: The Potential Profit Is...|Sibylen]]):** The crew arrives at Sibylen and meets [[Vera Corbin]] at [[Exosite 34b]]. They explore the alien quarantine building, activate [[The Fork|the Fork]], and glimpse [[_Prometheon Station|Prometheon Station]] and alien entities through a window across space.
 
 **Episode 19 ([[Episode Guide#Episode 19: The Truth About Haley: Robert's Story|Robert's Story]]):** Robert reveals he is clone RR7. Flashback to Ventos: Strike Force 6, the cave, the fork, Haley's death and return.
 
@@ -88,15 +88,15 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **Episode 22 ([[Episode Guide#Episode 22: Good Job, You Monster|Good Job, You Monster]]):** Trapped aboard the locked-down Scapegoat, the crew destroys an attacking Void Cultist ship, then breaks free onto Sibylen, where Felix learns Voss is gone.
 
-**Episode 23 ([[Episode Guide#Episode 23: Pick Up the Box|Pick Up the Box]]):** The crew assaults the Void Cultist exosite to rescue captured Unhallowed, including Froggy. Haleyy discovers she can command the Unhallowed.
+**Episode 23 ([[Episode Guide#Episode 23: Pick Up the Box|Pick Up the Box]]):** The crew assaults the Void Cultist exosite to rescue captured [[The Unhallowed|Unhallowed]], including Froggy. Haleyy discovers she can command the Unhallowed.
 
 **Episode 24 ([[Episode Guide#Episode 24: Boom! Biosionics!|Boom! Biosionics!]]):** Haleyy evacuates the Unhallowed and the crew finds the Fork active with [[Rynn Kade]] presiding. Kade dies in the fight, and Haleyy discovers latent biosionic healing powers just in time to save Thorne's life. The Fork completes regardless, producing a second orb.
 
-**Episode 25 ([[Episode Guide#Episode 25: Rock Tumor|Rock Tumor]]):** The crew arrives at [[_The Spigot|The Spigot]] for medical help and a black-market ownership module. [[Dr. Iso]] finds crystalline growths in Haleyy's brain and turns out to be a clone of Robert's own line.
+**Episode 25 ([[Episode Guide#Episode 25: Rock Tumor|Rock Tumor]]):** The crew arrives at [[_The Spigot|The Spigot]] for medical help and a black-market [[Ownership Module|ownership module]]. [[Dr. Iso]] finds crystalline growths in Haleyy's brain and turns out to be a clone of Robert's own line.
 
-**Episode 26 ([[Episode Guide#Episode 26: You're a Good Person, Robert|You're a Good Person, Robert]]):** The crew breaches a derelict Omnitek ship and confronts another Robert-line clone, DT7X, who is killed before he can reveal more about the command structure hunting them.
+**Episode 26 ([[Episode Guide#Episode 26: You're a Good Person, Robert|You're a Good Person, Robert]]):** The crew breaches a derelict Omnitek ship and confronts another Robert-line clone, [[DT7X]], who is killed before he can reveal more about the command structure hunting them.
 
-**Episode 27 ([[Episode Guide#Episode 27: Life Is Unfair|Life Is Unfair]]):** Iso's shop is bombed, pushing her to fully commit to the crew. The crew steals an ownership module shipment from the Helium Docks, Iso officially joins the crew, and Felix brings [[Buddy AI]] back online.
+**Episode 27 ([[Episode Guide#Episode 27: Life Is Unfair|Life Is Unfair]]):** Iso's shop is bombed, pushing her to fully commit to the crew. The crew steals an ownership module shipment from the [[Helium Docks]], Iso officially joins the crew, and Felix brings [[Buddy AI]] back online.
 
 **Episode 28 ([[Episode Guide#Episode 28: I'm Not Angry, I'm Disappointed|I'm Not Angry, I'm Disappointed]]):** Felix uncovers coordinates hidden in one of Strake's own transmissions, pointing toward [[Causeway 3]]. Dr. Iso gives Haleyy a grim prognosis on the crystalline growth in her brain. The crew reaches Causeway 3 and is met with hostile security.
 
@@ -104,11 +104,11 @@ A year-by-year history of the Viridian Expanse, the crew's lives before the show
 
 **Episode 30 ([[Episode Guide#Episode 30: You Broke the Ship, Robert|You Broke the Ship, Robert]]):** The pursuing patrol boat forces the crew to push the Scapegoat's engines to a full burnout. Robert buys time with the ship's one-time ECM burst, Froggy stages a comic bid for captaincy at the comms station, and Haleyy finally lands the finishing shot after recalibrating her sand chucker. The patrol boat is destroyed, closing out the Causeway 3 arc for good, and the crew begins the long journey to Prometheon Station.
 
-**Episode 31 ([[Episode Guide#Episode 31: You're Arriving Very Late|You're Arriving Very Late]]):** After an eighteen-day transit, the crew reaches Prometheon Station and boards unchallenged. Automated drones and a masked group calling themselves the Listeners drive them through the station's lab wing with a horde of Unhallowed on their heels while Strake taunts them from a control room. They track Voss to a sealed lab, wired to a pedestal, but her guards are gassed to death before the crew can force the door. A chaotic firefight nearly kills Felix, and just as the horde breaks through, the scene resets entirely: the crew is back on the bridge, 45 minutes from the station, caught in a time loop.
+**Episode 31 ([[Episode Guide#Episode 31: You're Arriving Very Late|You're Arriving Very Late]]):** After an eighteen-day transit, the crew reaches Prometheon Station and boards unchallenged. Automated drones and a masked group calling themselves the [[The Listeners|Listeners]] drive them through the station's lab wing with a horde of Unhallowed on their heels while Strake taunts them from a control room. They track Voss to a sealed lab, wired to a pedestal, but her guards are gassed to death before the crew can force the door. A chaotic firefight nearly kills Felix, and just as the horde breaks through, the scene resets entirely: the crew is back on the bridge, 45 minutes from the station, caught in a [[The Time Loop|time loop]].
 
-**Episode 32 ([[Episode Guide#Episode 32: Twenty-One Loops|Twenty-One Loops]]):** Reliving the same hours over and over, the crew maps the station and learns its gas trap runs on a dead man's switch only the CEO can clear. Strake offers an uneasy truce and clears a path by killing several of the Listeners. In the CEO's office, the crew finds a photograph tying Strake to the man behind the desk and a data chip full of files on Project Red Wing. Felix forces the station's gas trap to save time, killing two trapped researchers for real over Thorne's objection, then disconnects Voss against her own warning as the loop resets again.
+**Episode 32 ([[Episode Guide#Episode 32: Twenty-One Loops|Twenty-One Loops]]):** Reliving the same hours over and over, the crew maps the station and learns its gas trap runs on a dead man's switch only the CEO can clear. Strake offers an uneasy truce and clears a path by killing several of the Listeners. In the CEO's office, the crew finds a photograph tying Strake to the man behind the desk and a data chip full of files on [[Project Red Wing]]. Felix forces the station's gas trap to save time, killing two trapped researchers for real over Thorne's objection, then disconnects Voss against her own warning as the loop resets again.
 
-**Episode 33 ([[Episode Guide#Episode 33: An Acceptable Loss|An Acceptable Loss]]):** The station is visibly tearing itself apart and the crew can tell there's no reset coming this time. They split up for a final push, picking up Sabien along the way, and Strake ambushes Thorne at the admin office, claiming to be stranded and harmless. The two end up fighting for real as the wall tears open into vacuum; both men fire, and Strake is sucked into the gyroscope's void lightning with no clone left to return in. In the lab, Petra and Ren (alive again, the loop having undone their Episode 32 deaths) help Felix force through the final orb swap, Robert shoots Sabien rather than risk trusting him, and Petra is exposed to open vacuum patching Felix's ruined suit. The new orb wakes as a chorus voice calling itself the Concordant, calms the entire horde at once, and Voss, freed at last, speaks to the crew in person for the first time. The loop doesn't reset. Novacrypt arrives to find the station abandoned, claims the system, and offers the crew a contractor deal as Season 1 closes.
+**Episode 33 ([[Episode Guide#Episode 33: An Acceptable Loss|An Acceptable Loss]]):** The station is visibly tearing itself apart and the crew can tell there's no reset coming this time. They split up for a final push, picking up [[Sabien]] along the way, and Strake ambushes Thorne at the admin office, claiming to be stranded and harmless. The two end up fighting for real as the wall tears open into vacuum; both men fire, and Strake is sucked into the gyroscope's void lightning with no clone left to return in. In the lab, [[Petra and Ren]] (alive again, the loop having undone their Episode 32 deaths) help Felix force through the final orb swap, Robert shoots Sabien rather than risk trusting him, and Petra is exposed to open vacuum patching Felix's ruined suit. The new orb wakes as a chorus voice calling itself the [[The Concordant|Concordant]], calms the entire horde at once, and Voss, freed at last, speaks to the crew in person for the first time. The loop doesn't reset. [[Novacrypt]] arrives to find the station abandoned, claims the system, and offers the crew a contractor deal as Season 1 closes.
 
 ---
 *Source: sector history and pre-campaign backstory adapted from the Viridian Expanse Sector Guide; Season 1 campaign events cross-referenced against episode transcripts through Episode 33.*

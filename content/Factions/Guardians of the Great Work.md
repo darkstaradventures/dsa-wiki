@@ -7,7 +7,7 @@ revealed_through: Episode 3
 
 The Guardians of the Great Work are a zealot military force clinging to the dream of restoring the gas industry in the ruins of [[_Wafisa|Wafisa]]'s megacity. They collect heavy taxes and seize goods from the fisher folk and farmers of [[_Blackharbor|Blackharbor]], who live in squalor under their control, promising that the "Great Work" will one day be complete and prosperity will follow. Their symbol is a golden shield with an abstract pointed logo, and their catchphrase is "For the good of the work."
 
-The Guardians are based out of the Guardian Compound in Blackharbor, which takes up roughly half the settlement's land mass and contains their airfield. Guardian troops wear battered, spray-painted armor with golden shields and helmets with large wings bolted to the sides, and carry laser rifles and shock knives.
+The Guardians are based out of the [[The Guardian Compound|Guardian Compound]] in Blackharbor, which takes up roughly half the settlement's land mass and contains their airfield. Guardian troops wear battered, spray-painted armor with golden shields and helmets with large wings bolted to the sides, and carry laser rifles and shock knives.
 
 ## Locations
 

@@ -13,11 +13,11 @@ Robert is clone RR7, part of an experimental squadron created by [[Virodyne Labs
 
 ## Strike Force 6
 
-Robert's squad was delivered to Vigrid for training, where [[Haleyy|Haley]] (with one Y) was assigned as squad leader and Robert became her second-in-command. Sent with the rest of Strike Force 6 to Ventos during the Red Rice Wars, the squad located an alien structure containing a fork inside a cave system while rescuing Haley from captivity. Haley was struck by the fork's energy, and one squadmate died during the escape. Fleeing on stolen motorcycles, the squad called for extraction. An anti-air mech shot their helicopter out of the sky, killing two more squadmates. Robert found Haley mortally wounded and applied Lazarus patch after Lazarus patch trying to save her, only to realize she had already been dead for minutes. He was later assigned to watch over the amnesiac "Haleyy" who woke in her place, and has carried the truth of who she really is ever since.
+Robert's squad was delivered to Vigrid for training, where [[Haleyy|Haley]] (with one Y) was assigned as squad leader and Robert became her second-in-command. Sent with the rest of [[Strike Force 6]] to Ventos during the [[Red Rice Wars]], the squad located an alien structure containing a fork inside a cave system while rescuing Haley from captivity. Haley was struck by the fork's energy, and one squadmate died during the escape. Fleeing on stolen motorcycles, the squad called for extraction. An anti-air mech shot their helicopter out of the sky, killing two more squadmates. Robert found Haley mortally wounded and applied [[Lazarus Patch|Lazarus]] patch after Lazarus patch trying to save her, only to realize she had already been dead for minutes. He was later assigned to watch over the amnesiac "Haleyy" who woke in her place, and has carried the truth of who she really is ever since.
 
 ## Gear
 
-Robert fights with a combat rifle and a laser pistol, keeps a brass-knuckle knife hidden in his boot, and wears Woven Body Armor. He has a bionic eye purchased at great cost from Nexus Trading, and collects [[Lokipon Cards]] despite being a poor player.
+Robert fights with a combat rifle and a laser pistol, keeps a brass-knuckle knife hidden in his boot, and wears Woven Body Armor. He has a bionic eye purchased at great cost from [[Nexus Trading]], and collects [[Lokipon Cards]] despite being a poor player.
 
 ## Character Spotlights
 

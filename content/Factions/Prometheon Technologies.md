@@ -1,17 +1,17 @@
 ---
 title: Prometheon Technologies
 tags: [faction]
-aliases: [Prometheon, Prometheon Station]
+aliases: [Prometheon]
 revealed_through: Episode 8
 ---
 
-Prometheon Technologies is a subsidiary of [[Virodyne Labs]]. According to [[Dr. Elara Voss]], Prometheon carried out the genetics experiments that devastated the population of her home world after Virodyne turned it into a corporate settlement. The corporation's headquarters is a secret space station somewhere in deep space, its exact location classified. When the crew glimpsed the station through an alien relay in the Sibylen exosite, it appeared as five interlocking rings arranged like a celestial gyroscope, pierced by a long central rod.
+Prometheon Technologies is a subsidiary of [[Virodyne Labs]]. According to [[Dr. Elara Voss]], Prometheon carried out the genetics experiments that devastated the population of her home world after Virodyne turned it into a corporate settlement. The corporation's headquarters is a secret space station somewhere in deep space, its exact location classified. When the crew glimpsed the station through an alien relay in the [[_Sibylen|Sibylen]] exosite, it appeared as five interlocking rings arranged like a celestial gyroscope, pierced by a long central rod.
 
 ## Relationships
 
 Prometheon is a subsidiary of [[Virodyne Labs]]. [[Dr. Elara Voss]] built and deployed a virus intended to disable Prometheon's environmental systems, erase its data, and destroy its reactor, in revenge for the experiments Prometheon ran on her home world.
 
-When [[Prometheon Station]]'s gyroscope went critical at the end of the time loop (Ep 33), Prometheon's installation was left abandoned, and [[Novacrypt]] claimed the station and the system outright. Virodyne ships that arrived afterward to check on the asset retreated without a fight rather than challenge the Novacrypt fleet already in place.
+When [[Prometheon Station]]'s gyroscope went critical at the end of the [[The Time Loop|time loop]] (Ep 33), Prometheon's installation was left abandoned, and [[Novacrypt]] claimed the station and the system outright. Virodyne ships that arrived afterward to check on the asset retreated without a fight rather than challenge the Novacrypt fleet already in place.
 
 ---
 *Appears in: Ep 8, 18, Ep 33*

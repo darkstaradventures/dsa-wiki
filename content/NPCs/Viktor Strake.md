@@ -13,17 +13,17 @@ Strake is a recurring thorn in the crew's side, and there's a standing mystery a
 
 He first appeared in Episodes 7-8, arriving at [[_Wafisa|Wafisa]] aboard a triangular stealth ship with a small team of [[Omnitek Holdings]] soldiers, having traced the crew by following [[Dr. Elara Voss]]'s hack when her power went down. He caught up with them at [[_Blackharbor|Blackharbor]] shortly after.
 
-In Episode 18, a Strake (or a duplicate) attacked the crew at the Helium Docks on [[_The Spigot|The Spigot]] with a squad of drones.
+In Episode 18, a Strake (or a duplicate) attacked the crew at the [[Helium Docks]] on [[_The Spigot|The Spigot]] with a squad of drones.
 
 He resurfaced in the Episode 20 epilogue, looming over an unconscious [[Haleyy]] as she briefly stirred, telling her "I had no idea how valuable you were" while the rest of the crew, bound nearby, could only watch.
 
 In Episode 21, Strake captured the crew at [[_Sibylen|Sibylen]], seized [[Dr. Elara Voss]]'s orb, and locked the crew inside their own ship using Omnitek's admin override codes.
 
-By Episode 28, Causeway 3 transit logs (recovered by Felix from the first security layer of the Causeway 3 server room) confirmed that [[The Acceptable Loss]] had passed through the routing station en route to [[Prometheon Technologies]], with Voss still aboard.
+By Episode 28, [[Causeway 3]] transit logs (recovered by Felix from the first security layer of the Causeway 3 server room) confirmed that [[The Acceptable Loss]] had passed through the routing station en route to [[Prometheon Technologies]], with Voss still aboard.
 
 Strake's known gear includes a laser pistol and a physical Virodyne admin key capable of locking down [[The Scapegoat]] and handing Virodyne control of the ship.
 
-When the crew boarded [[Prometheon Station]] (Ep 31), Strake watched them from a glassed-in control room as they fled a horde of Unhallowed across a catwalk, keying a nearby radio to needle them: "the Scapegoaters... welcome to Prometheon Station. I'm surprised to see that you've made it this far," followed by "I think you're arriving very late, actually. Almost too late, but it's almost time. Let's just say you're in for one hell of a ride." He let them keep running rather than intervening directly.
+When the crew boarded [[Prometheon Station]] (Ep 31), Strake watched them from a glassed-in control room as they fled a horde of [[The Unhallowed|Unhallowed]] across a catwalk, keying a nearby radio to needle them: "the Scapegoaters... welcome to Prometheon Station. I'm surprised to see that you've made it this far," followed by "I think you're arriving very late, actually. Almost too late, but it's almost time. Let's just say you're in for one hell of a ride." He let them keep running rather than intervening directly.
 
 Still trapped in the loop in Episode 32, Strake worked his own angle rather than [[The Listeners|the Listeners]]'. He left [[Thorne]] a handwritten note proposing they work together since their goals didn't have to conflict, and later killed five Listeners, including their leader [[Sabien]], to clear the crew's path to the station's admin wing, leaving only a note reading "you're welcome" on the bodies. In that same office, the crew found a framed photograph of [[Victor Saren]] that showed him with Strake's exact face, roughly forty years older, a resemblance too close to be coincidence.
 

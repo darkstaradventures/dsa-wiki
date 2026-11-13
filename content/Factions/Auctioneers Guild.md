@@ -15,11 +15,11 @@ The Guild operates everywhere corporations do business, including [[_Sibylen|Sib
 
 ## Key Representatives
 
-**Meer Prust** is the Second High Auctioneer Representative for Sibylen, with offices in The Spigot.
+**[[Meer Prust]]** is the Second High Auctioneer Representative for Sibylen, with offices in [[_The Spigot|The Spigot]].
 
 ## Campaign Appearances
 
-- **Ep 21:** Meer Prust arrived during [[Viktor Strake]]'s interrogation of the crew of [[The Scapegoat]], forcing Strake to release them for 24 hours so a Guild auction could proceed, and backed [[Thorne]]'s legal argument. Prust then conducted the auction for Exosite 34b.
+- **Ep 21:** Meer Prust arrived during [[Viktor Strake]]'s interrogation of the crew of [[The Scapegoat]], forcing Strake to release them for 24 hours so a Guild auction could proceed, and backed [[Thorne]]'s legal argument. Prust then conducted the auction for [[Exosite 34b]].
 
 ---
 *Appears in: Ep 21*

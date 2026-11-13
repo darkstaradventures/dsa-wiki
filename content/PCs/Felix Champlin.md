@@ -5,17 +5,17 @@ aliases: [Felix]
 revealed_through: Episode 18
 ---
 
-Felix Champlin is the hacker and communications specialist aboard [[The Scapegoat]], played by Scott. Born in 2649 on New Lucerne, Felix has a prosthetic right leg (from the hip down) that causes him chronic pain, which he sometimes manages with drugs. He prefers machines to people, works from a foldout three-screen "data slab," and is driven by one overriding goal: rescuing his brother.
+Felix Champlin is the hacker and communications specialist aboard [[The Scapegoat]], played by Scott. Born in 2649 on [[New Lucerne]], Felix has a prosthetic right leg (from the hip down) that causes him chronic pain, which he sometimes manages with drugs. He prefers machines to people, works from a foldout three-screen "data slab," and is driven by one overriding goal: rescuing his brother.
 
 ## Backstory
 
-Felix's younger brother, [[Petey Champlin|Petey]], was a journalist and field medic working undercover for Blackout Press inside [[Omnitek Holdings]], investigating the corporation's prisoner conversion program under the pen name "Dox Ryker." Felix, Petey, and two accomplices broke into Omnitek's orbital data vault above [[_Polyphn|Polyphn]] and discovered Operation Red Wing: Omnitek's scheme to buy prisoner contracts and digitize the prisoners' consciousness as AI test subjects, killing the bodies in the process. Petey was killed during the heist by a device that copies consciousness and destroys the body; his digitized mind remains trapped in Omnitek's servers, running through nightmare simulations.
+Felix's younger brother, [[Petey Champlin|Petey]], was a journalist and field medic working undercover for Blackout Press inside [[Omnitek Holdings]], investigating the corporation's prisoner conversion program under the pen name "Dox Ryker." Felix, Petey, and two accomplices broke into Omnitek's orbital data vault above [[_Polyphn|Polyphn]] and discovered [[Project Red Wing|Operation Red Wing]]: Omnitek's scheme to buy prisoner contracts and digitize the prisoners' consciousness as AI test subjects, killing the bodies in the process. Petey was killed during the heist by a device that copies consciousness and destroys the body; his digitized mind remains trapped in Omnitek's servers, running through nightmare simulations.
 
 Felix escaped, changed his face and voice, and stitched together the identity of "Felix Champlin" from scratch to infiltrate Omnitek and track the vault as it relocated. His birth name has never been revealed. Roughly two years later, Felix, under his new identity, was assigned to an Omnitek unit called Echo 3, where he first met [[Thorne]]; the two ran several missions together before going their separate ways. Felix later hacked the mission applicant list that got him assigned to [[Dr. Elara Voss]]'s crew, not realizing she had already selected him independently. His goal in joining was to reach the vault, now relocated near [[Prometheon Technologies]] Station.
 
 ## Powers and Growth
 
-During the crew's exploration of an alien digital space, Felix received knowledge directly from Dr. Elara Voss, gaining a bonus to his technical skill that applies specifically to alien-tech interfaces. He can manipulate alien gel-mold interfaces with his programming skill, and made a working copy of [[Buddy AI]]'s source code and personality after hacking it at Scrapjacks. That copy has since helped run the Scapegoat's systems.
+During the crew's exploration of an alien digital space, Felix received knowledge directly from Dr. Elara Voss, gaining a bonus to his technical skill that applies specifically to alien-tech interfaces. He can manipulate alien gel-mold interfaces with his programming skill, and made a working copy of [[Buddy AI]]'s source code and personality after hacking it at [[_Scrapjacks|Scrapjacks]]. That copy has since helped run the Scapegoat's systems.
 
 ## Gear
 

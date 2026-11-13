@@ -5,11 +5,11 @@ aliases: [Thorne Draxus]
 revealed_through: Episode 29
 ---
 
-Thorne is the captain of [[The Scapegoat]], played by Brian. Born in 2646 on Zephyrus Three, he's a dignified businessman who loves music and songwriting, and serves as the crew's voice and negotiator. Once reckless, he has grown measured and protective of his crew.
+Thorne is the captain of [[The Scapegoat]], played by Brian. Born in 2646 on [[Zephyrus Three]], he's a dignified businessman who loves music and songwriting, and serves as the crew's voice and negotiator. Once reckless, he has grown measured and protective of his crew.
 
 ## Backstory
 
-Thorne's full name is Thorne Draxus. His family owned Draxus Goods, a trading company run for five generations out of Zephyrus Three. A smuggling ring operating within the company led Thorne's mother to plant evidence implicating both Thorne and the company's William Sallerist, expecting both to go to prison. Instead, Sallerist escaped justice, shifted the blame entirely onto Thorne, and took over Draxus Goods as managing director under [[Nexus Trading]]. Thorne served roughly ten years of a twelve-year sentence before his contract was purchased by [[Omnitek Holdings]].
+Thorne's full name is Thorne Draxus. His family owned [[Draxus Goods]], a trading company run for five generations out of Zephyrus Three. A smuggling ring operating within the company led Thorne's mother to plant evidence implicating both Thorne and the company's [[William Sallerist]], expecting both to go to prison. Instead, Sallerist escaped justice, shifted the blame entirely onto Thorne, and took over Draxus Goods as managing director under [[Nexus Trading]]. Thorne served roughly ten years of a twelve-year sentence before his contract was purchased by [[Omnitek Holdings]].
 
 After his release, Thorne was posted to [[_Polyphn|Polyphn]], where during a month of downtime he tracked down Sallerist's fate, only to discover Sallerist had faked his death in a maglev crash. With help from allies he made on Polyphn, Thorne recovered proof of the fraud from a relay tower, but an informant betrayed them to Nexus, costing him two of those allies and getting a third captured, while his mother confirmed the truth at the tower's summit. Around this same period, Thorne was assigned to an Omnitek unit called Echo 3, where he first met [[Felix Champlin]]; the two ran missions together before parting ways, reuniting later at [[_Camiri 4|Camiri 4]].
 
@@ -19,9 +19,9 @@ In Episode 21, when [[Viktor Strake]] captured the crew, Thorne used InterCorpor
 
 ## Personality and Relationships
 
-Thorne's love of music has become a defining trait, extending into an entire in-universe music lore he shares recommendations about with Reginald "Froggy" Vance. He collects [[Lokipon Cards]] and is a skilled player. He struck up a romantic relationship with a woman named Yana 7 at Scrapjacks, exchanging exo-mail with her. His overriding goal is to find William Sallerist and reclaim Draxus Goods.
+Thorne's love of music has become a defining trait, extending into an entire in-universe music lore he shares recommendations about with [[Reginald Froggy Vance|Reginald "Froggy" Vance]]. He collects [[Lokipon Cards]] and is a skilled player. He struck up a romantic relationship with a woman named [[Yana 7]] at [[_Scrapjacks|Scrapjacks]], exchanging [[The Exo-Net|exo-mail]] with her. His overriding goal is to find William Sallerist and reclaim Draxus Goods.
 
-In Episode 29, Thorne was dropped to just 2 of his 12 hit points shielding Felix from a drone swarm at Causeway 3.
+In Episode 29, Thorne was dropped to just 2 of his 12 hit points shielding Felix from a drone swarm at [[Causeway 3]].
 
 ## Gear
 

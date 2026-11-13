@@ -11,7 +11,7 @@ Buddy began as the station AI for [[_Scrapjacks|Scrap Jack's Refueling and Grub]
 
 After [[Dr. Elara Voss]] wired herself into [[The Scapegoat]]'s systems and was subsequently taken, the ship needed a new system manager, and Felix reactivated Buddy, installing him as the Scapegoat's managing VI. Buddy's first words upon waking were characteristically enthusiastic: *"Hey, buddy! Thanks for turning me on again! Wow, I got a lot more room here, buddy!"* He has since taken to calling Felix "my daddy," and has settled into his new role, though he admits he misses Scrapjacks now and then.
 
-Buddy isn't always reliable in a pinch: when Felix had [[Dr. Iso]] plug a communicator into a comms panel to remotely have Buddy fake a crew manifest for Causeway 3's voice-controlled door, he offered up "Captain Torn Haxis. Beelix Bamplin. Bobbert the Clone. Bailey with two Bs" before announcing he was cooking dinner on the electric stove, prompting Felix to unplug him.
+Buddy isn't always reliable in a pinch: when Felix had [[Dr. Iso]] plug a communicator into a comms panel to remotely have Buddy fake a crew manifest for [[Causeway 3]]'s voice-controlled door, he offered up "Captain Torn Haxis. Beelix Bamplin. Bobbert the Clone. Bailey with two Bs" before announcing he was cooking dinner on the electric stove, prompting Felix to unplug him.
 
 ---
 *Appears in: Ep 10-12, 27, 28*

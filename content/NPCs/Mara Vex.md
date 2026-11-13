@@ -11,7 +11,7 @@ Lean and wary, with a calculating edge, Mara wears a heavily patched tactical ja
 
 In [[_Polyphn|Polyphn]] she allied with [[Thorne]] and the crew, backed by her bodyguard [[Brick]] and an old contact, the ripperdoc [[Dr. Sial]], who had installed her cybernetic modifications: a telescopic ocular implant capable of zooming to 500 meters, and a "Ghost Talker" cochlear transceiver that let Sial see through her eyes and offer remote support.
 
-Mara fought alongside the crew during the gravcar chase and the subsequent assault on [[The Relay Tower]]. While Thorne climbed the tower alone to retrieve the data cache, Mara stayed below with Brick and Kano to hold off a wave of Nexus goons. When Thorne came back down, he found Brick and Kano dead and Mara gone, along with the van that had carried off her attackers. He assumed Nexus had taken her to finish covering up the Bloc 6 crash, and that she was likely dead, but her fate was never directly confirmed on air after that.
+Mara fought alongside the crew during the gravcar chase and the subsequent assault on [[The Relay Tower]]. While Thorne climbed the tower alone to retrieve the data cache, Mara stayed below with Brick and [[Kano Rix|Kano]] to hold off a wave of Nexus goons. When Thorne came back down, he found Brick and Kano dead and Mara gone, along with the van that had carried off her attackers. He assumed Nexus had taken her to finish covering up the Bloc 6 crash, and that she was likely dead, but her fate was never directly confirmed on air after that.
 
 ---
 *Appears in: Ep 13*

@@ -18,10 +18,10 @@ The crew of [[The Scapegoat]] consists of four player characters, brought togeth
 
 | Name | Role | Joined |
 |------|------|--------|
-| Dr. Elara Voss | VI / Mission architect | Ep 3 (captured Ep 21) |
-| Reginald "Froggy" Vance | Radio DJ / Companion | Ep 6 |
-| Dr. Iso | Doctor / Black market dealer | Ep 22 |
-| Buddy AI | Ship systems manager | Ep 18 (Felix's copy) |
+| [[Dr. Elara Voss]] | VI / Mission architect | Ep 3 (captured Ep 21) |
+| [[Reginald Froggy Vance\|Reginald "Froggy" Vance]] | Radio DJ / Companion | Ep 6 |
+| [[Dr. Iso]] | Doctor / Black market dealer | Ep 22 |
+| [[Buddy AI]] | Ship systems manager | Ep 18 (Felix's copy) |
 
 ## Ship
 

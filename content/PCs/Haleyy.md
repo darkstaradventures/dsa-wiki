@@ -13,19 +13,19 @@ Haleyy grew up training alone on Vigrid: fighting, week-long desert survival run
 
 ## True Identity
 
-Haleyy's true identity was revealed to the crew at The Spigot: she is Haley, with one Y. The "Haleyy" persona, and the story of a missing sister named Haley, never existed as a separate person. During a mission on Ventos, she was struck by energy from an alien fork inside a cave and killed during the escape, then revived in the morgue by a biopsionic healing ability she didn't know she had. She woke with no memory of her death, having unconsciously constructed a new identity and a cover story casting "Haley with one Y" as an older sister who had gone missing. [[Robert Ross]], who served with the real Haley, knew the truth the whole time. The two identities merged into a single sense of self after a psychic dream sequence in Episode 20, in which a vision of "Haley" told her plainly: "Your sister is not missing. You are an only child."
+Haleyy's true identity was revealed to the crew at [[_The Spigot|The Spigot]]: she is Haley, with one Y. The "Haleyy" persona, and the story of a missing sister named Haley, never existed as a separate person. During a mission on Ventos, she was struck by energy from an alien fork inside a cave and killed during the escape, then revived in the morgue by a biopsionic healing ability she didn't know she had. She woke with no memory of her death, having unconsciously constructed a new identity and a cover story casting "Haley with one Y" as an older sister who had gone missing. [[Robert Ross]], who served with the real Haley, knew the truth the whole time. The two identities merged into a single sense of self after a psychic dream sequence in Episode 20, in which a vision of "Haley" told her plainly: "Your sister is not missing. You are an only child."
 
 ## Biopsionic Powers
 
-Haleyy has been struck by void or alien-fork energy multiple times: first on Ventos (in flashback), again by a void tendril at Scrapjacks, and a third time during an exosite fork activation on [[_Sibylen|Sibylen]]. These contacts unlocked bio-electromagnetic and healing abilities, which first activated involuntarily in Episode 24 when she healed [[Thorne]]'s gunshot wound, collapsing from the exertion immediately afterward. A brain scan at Dr. Iso's shop in Episode 25 detected crystalline micro-structures throughout her brain alongside other physiological changes (elevated heart rate, high blood pressure, low glucose). The [[Void Cultists]] have identified her as "untethered": someone who has touched the void naturally, without their ritual.
+Haleyy has been struck by void or alien-fork energy multiple times: first on Ventos (in flashback), again by a void tendril at [[_Scrapjacks|Scrapjacks]], and a third time during an exosite fork activation on [[_Sibylen|Sibylen]]. These contacts unlocked bio-electromagnetic and healing abilities, which first activated involuntarily in Episode 24 when she healed [[Thorne]]'s gunshot wound, collapsing from the exertion immediately afterward. A brain scan at [[Dr. Iso]]'s shop in Episode 25 detected crystalline micro-structures throughout her brain alongside other physiological changes (elevated heart rate, high blood pressure, low glucose). The [[Void Cultists]] have identified her as "untethered": someone who has touched the void naturally, without their ritual.
 
 ## Gear
 
-Haleyy fights with a revolver, a large advanced weapon, a laser rifle, and her bare hands, wearing Woven Body Armor. She carries a broken, decades-old military data pad she believes belonged to her sister, an analog notepad since the pad doesn't work, a deck of [[Lokipon Cards]] she keeps despite being a poor player, and the [[Harrow Family Cookbook]], which she has carried since Wafisa.
+Haleyy fights with a revolver, a large advanced weapon, a laser rifle, and her bare hands, wearing Woven Body Armor. She carries a broken, decades-old military data pad she believes belonged to her sister, an analog notepad since the pad doesn't work, a deck of [[Lokipon Cards]] she keeps despite being a poor player, and the [[Harrow Family Cookbook]], which she has carried since [[_Wafisa|Wafisa]].
 
 ## Character Spotlights
 
-Free Patreon bonus content covers Haleyy's endurance during military training, her first offworld missions for Omnitek, and a letter home from her earliest days in service.
+Free Patreon bonus content covers Haleyy's endurance during military training, her first offworld missions for [[Omnitek Holdings|Omnitek]], and a letter home from her earliest days in service.
 
 ---
 *Appears in: Ep 10, 11, 18, 19, 20, 21, 23, 24, 25, 28*

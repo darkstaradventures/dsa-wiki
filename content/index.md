@@ -15,6 +15,7 @@ Dark Star Adventurecast is an actual-play Stars Without Number podcast: four exp
 - [[PCs]]: the crew of the Scapegoat
 - [[Ships]]: the Scapegoat and anything else that flies
 - [[Items]]: the gear and loot worth remembering
+- [[Lore]]: the wars, tech, and alien devices behind the story
 - [[Episode Guide]]: what happened, episode by episode
 - [[Timeline|Season 1 So Far]]: the story so far, in order
 

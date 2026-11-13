@@ -1,7 +1,7 @@
 ---
 title: WK9078 Radio Station
 tags: [location]
-aliases: [Radio Station, Froggy's Radio Station, WK9078, The Voice of the Wastes]
+aliases: [Radio Station, Froggy's Radio Station, WK9078]
 revealed_through: Episode 7
 ---
 

@@ -29,8 +29,8 @@ The Viridian Expanse is dominated by a handful of interlocking mega-corporations
 
 ## Cults
 
-- [[Void Cultists]]: seek "void ascension," encountered at Scrapjacks and Sibylen
-- [[The Listeners]]: gas-masked Void Cultist faction that ran Prometheon Station under Sabien until the time loop's end (Ep 33)
+- [[Void Cultists]]: seek "void ascension," encountered at [[_Scrapjacks|Scrapjacks]] and Sibylen
+- [[The Listeners]]: gas-masked Void Cultist faction that ran Prometheon Station under [[Sabien]] until the [[The Time Loop|time loop]]'s end (Ep 33)
 
 ## The Crew
 

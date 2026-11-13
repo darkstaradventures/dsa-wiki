@@ -9,15 +9,15 @@ An index of ground, air, and small space vehicles the crew has encountered. Ship
 
 ## Crew Vehicle
 
-[[The Aurora]], a plutonium-powered hover car found at Millbrook Storage on [[_Wafisa|Wafisa]] in Episode 6, rides aboard the Scapegoat.
+[[The Aurora]], a plutonium-powered hover car found at [[Millbrook Storage]] on [[_Wafisa|Wafisa]] in Episode 6, rides aboard the Scapegoat.
 
 ## Encountered Vehicles
 
-- **Mara's hover car**: a gravcar driven by Brick during a chase through Hakumei Prefecture (Ep 13)
-- **Nexus dual-rotor skimmer**: a Nexus-made VTOL, agile enough for hover and rapid ascent, that circled the relay tower during a firefight (Ep 13)
-- **Motorcycles**: hover bikes used by Thorne and his Polyphn allies to reach the relay tower (Ep 13)
+- **[[Mara Vex|Mara]]'s hover car**: a gravcar driven by [[Brick]] during a chase through [[_Hakumei Prefecture|Hakumei Prefecture]] (Ep 13)
+- **[[Nexus Trading|Nexus]] dual-rotor skimmer**: a Nexus-made VTOL, agile enough for hover and rapid ascent, that circled the relay tower during a firefight (Ep 13)
+- **Motorcycles**: hover bikes used by [[Thorne]] and his [[_Polyphn|Polyphn]] allies to reach the relay tower (Ep 13)
 - **Refueling shuttle**: an orbital shuttle used as cover during the data vault heist (Ep 9)
-- **Strike fighters**: a pair that attacked the Scapegoat as it departed Camiri 4 (Ep 2)
+- **Strike fighters**: a pair that attacked the Scapegoat as it departed [[_Camiri 4|Camiri 4]] (Ep 2)
 - **Guardian transport**: a ground vehicle the crew was loaded into after their capture on Wafisa (Ep 7)
 
 ---

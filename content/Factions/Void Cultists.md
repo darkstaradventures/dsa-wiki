@@ -5,7 +5,7 @@ aliases: [Cult of the Void, The Cult, Void Cult]
 revealed_through: Episode 23
 ---
 
-The Void Cultists are a religious cult seeking "ascension" through rituals involving void energy. They use void ansibles (strange devices that tear rifts in spacetime) to expose people to void energy, creating Unhallowed: mindless, husk-like creatures the cult can direct. Somehow, the cult can also read the ancient "dots and swirls" alien language.
+The Void Cultists are a religious cult seeking "ascension" through rituals involving void energy. They use void ansibles (strange devices that tear rifts in spacetime) to expose people to void energy, creating [[The Unhallowed|Unhallowed]]: mindless, husk-like creatures the cult can direct. Somehow, the cult can also read the ancient "dots and swirls" alien language.
 
 The cult is organized hierarchically, with titles including Brother, Sister, Hierophant, Adept, Tollbearer, Archivist, and Mother. Members wear gray-and-black mottled robes; many are bald with face and neck tattoos, and carry shotguns, laser pistols, or chainsaw-blade swords.
 
@@ -19,15 +19,15 @@ An untethered person outside the cult is either someone the cult wants to recrui
 
 | Name | Role | Location | Status |
 |------|------|----------|--------|
-| Brother Halek | Preacher / truck stop leader | Scrapjacks | Dead |
-| Nesso Tharn | Second-in-command | Scrapjacks | Dead |
-| Rynn Kade | Nexus Trading / cult liaison | [[_Sibylen|Sibylen]] | Dead |
-| Hierophant Kethrix | Of the Black Spiral | Sibylen | Dead |
+| [[Brother Halek]] | Preacher / truck stop leader | [[_Scrapjacks\|Scrapjacks]] | Dead |
+| [[Nesso Tharn]] | Second-in-command | Scrapjacks | Dead |
+| [[Rynn Kade]] | Nexus Trading / cult liaison | [[_Sibylen\|Sibylen]] | Dead |
+| [[Kethrix\|Hierophant Kethrix]] | Of the Black Spiral | Sibylen | Dead |
 | Vale | Named alongside Kethrix, Zythek, and Barriss as cultists sent to apprehend the crew | Sibylen | Dead |
 
 ## Locations
 
-The cult took over the Scrapjacks truck stop (Ep 10-11) and attacked the auction at Exosite 34b on Sibylen (Ep 21-24). Their ship is a large, brutalist, black-and-gray vessel patched together from other ships' parts, unable to survive atmospheric entry, with a cargo hold that has carried sleeping Unhallowed.
+The cult took over the Scrapjacks truck stop (Ep 10-11) and attacked the auction at [[Exosite 34b]] on Sibylen (Ep 21-24). Their ship is a large, brutalist, black-and-gray vessel patched together from other ships' parts, unable to survive atmospheric entry, with a cargo hold that has carried sleeping Unhallowed.
 
 ## Technology
 
