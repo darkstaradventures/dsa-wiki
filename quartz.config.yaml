@@ -163,6 +163,21 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    # Defaults were too small to read: one hop of links, tiny labels, zoomed out.
+    options:
+      localGraph:
+        depth: 2
+        scale: 1.4
+        fontSize: 0.8
+        linkDistance: 45
+        repelForce: 0.9
+        opacityScale: 1.6
+        focusOnHover: true
+      globalGraph:
+        scale: 1.1
+        fontSize: 0.75
+        opacityScale: 1.3
+        focusOnHover: true
     layout:
       position: right
       priority: 10

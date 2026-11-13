@@ -20,6 +20,16 @@ a.internal {
   padding: 0 !important;
   text-decoration: underline !important;
 }
+// Taller graph box: the 250px default left the graph too small to use.
+.graph > .graph-outer {
+  height: 420px !important;
+}
+
+// The sector map is a link to its own full-size file; no underline under an image.
+a.internal:has(> img) {
+  text-decoration: none !important;
+}
+
 .note-properties .note-properties-tags .tag-link:hover {
   background: transparent !important;
   color: var(--tertiary) !important;
