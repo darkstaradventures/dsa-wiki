@@ -163,15 +163,15 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
-    # Defaults were too small to read: one hop of links, tiny labels, zoomed out.
+    # Defaults were too small to read: tiny labels, zoomed out, small box. (Two hops was tried and is an unreadable cloud.)
     options:
       localGraph:
-        depth: 2
-        scale: 1.4
-        fontSize: 0.8
-        linkDistance: 45
-        repelForce: 0.9
-        opacityScale: 1.6
+        depth: 1
+        scale: 1.8
+        fontSize: 0.9
+        linkDistance: 60
+        repelForce: 1.2
+        opacityScale: 2
         focusOnHover: true
       globalGraph:
         scale: 1.1
