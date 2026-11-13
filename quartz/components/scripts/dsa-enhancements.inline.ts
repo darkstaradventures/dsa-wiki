@@ -1,56 +1,14 @@
 // Dark Star Adventurecast wiki additions (2026-11-13).
 //
-// 1. Graph view: the graph plugin keeps every label invisible until the reader scrolls on the
-//    graph. We nudge it once after it loads so labels are visible straight away.
-// 2. Sector map: any <div class="dsa-map-viewer"><img src="...svg"></div> becomes an inline
+// Sector map: any <div class="dsa-map-viewer"><img src="...svg"></div> becomes an inline
 //    zoomable, pannable map (wheel / pinch / drag / buttons / keyboard / fullscreen).
 //
 // NOTE: the inline-script bundler strips the first occurrence of the word that starts with
 // "ex" and ends in "port" from this file, so never write it here, even in a comment.
 
-// ---------------------------------------------------------------------------------------------
-// 1. Graph labels
-// ---------------------------------------------------------------------------------------------
-
-function showGraphLabels() {
-  const canvases = document.querySelectorAll<HTMLCanvasElement>(
-    ".graph-container canvas, .global-graph-container canvas",
-  )
-  canvases.forEach((canvas) => {
-    if (canvas.dataset.dsaLabels) return
-    canvas.dataset.dsaLabels = "1"
-    // d3-zoom listens for wheel events on the canvas. A tiny zoom-in (0.14%) makes the plugin run
-    // its label-opacity pass. Fired a few times because the zoom handler attaches after the data loads.
-    const nudge = () => {
-      const r = canvas.getBoundingClientRect()
-      canvas.dispatchEvent(
-        new WheelEvent("wheel", {
-          deltaY: -1,
-          clientX: r.left + r.width / 2,
-          clientY: r.top + r.height / 2,
-          bubbles: true,
-          cancelable: true,
-        }),
-      )
-    }
-    for (const ms of [400, 1000, 2000, 4000]) window.setTimeout(nudge, ms)
-  })
-}
-
-function watchGraphs() {
-  showGraphLabels()
-  if ((window as any).dsaGraphObserver) return
-  let pending = 0
-  const observer = new MutationObserver(() => {
-    window.clearTimeout(pending)
-    pending = window.setTimeout(showGraphLabels, 120)
-  })
-  observer.observe(document.body, { childList: true, subtree: true })
-  ;(window as any).dsaGraphObserver = observer
-}
 
 // ---------------------------------------------------------------------------------------------
-// 2. Zoomable, pannable map
+// Zoomable, pannable map
 // ---------------------------------------------------------------------------------------------
 
 const MIN_ZOOM = 1
@@ -293,7 +251,6 @@ function setupMapViewers() {
 
 function setupAll() {
   setupMapViewers()
-  watchGraphs()
 }
 
 document.addEventListener("nav", setupAll)
